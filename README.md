@@ -1,68 +1,79 @@
-# Hispasonic Web Scraping & Data Analysis 🚀📊
+# Hispasonic Web Scraping & Data Analysis
 
-This project provides a comprehensive automated solution for web scraping, processing, and analyzing data from [Hispasonic](https://www.hispasonic.com/), a popular Spanish-speaking music technology and production community.
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
----
-
-## 🛠️ Technologies Used:
-
-- **Python**
-- **Pandas**
-- **NumPy**
-- **BeautifulSoup**
-- **Requests**
-- **SQLite (SQL)**
-- **Jupyter Notebooks**
-- **Git & GitHub**
+End-to-end solution for automated web scraping and data analysis from [Hispasonic](https://www.hispasonic.com/), a Spanish-speaking music technology community.
 
 ---
 
-## 📑 Project Overview:
+## Features
 
-The main goal of this project is to extract structured data automatically from the Hispasonic website, analyze it, and discover actionable insights, trends, and relevant community metrics.
-
----
-
-## 🚀 Key Features and Workflow:
-
-**1. Automated Web Scraping:**
-- Utilizes Python's `Requests` library to manage robust and efficient HTTP requests.
-- Parses HTML content accurately with `BeautifulSoup` to extract relevant data points, including forum threads, articles, comments, user interactions, and statistics.
-
-**2. Data Structuring & Storage:**
-- Extracted data is cleaned, formatted, and structured into an SQLite database.
-- Implements comprehensive data integrity checks to maintain high-quality and error-free datasets.
-
-**3. Advanced Data Analysis:**
-- Performs exploratory data analysis (EDA) using `Pandas` and `NumPy`.
-- Identifies patterns, anomalies, and insights such as user activity trends, topic popularity, engagement metrics, and predictive analytics on content relevance.
-
-**4. Documentation & Reproducibility:**
-- Provides well-documented Jupyter Notebooks, clearly illustrating every stage from scraping to exploratory and predictive analytics.
-- Ensures reproducibility with explicit documentation and easy-to-follow instructions.
+- **Ethical Web Scraping** - Rate-limited extraction of 10,000+ posts using BeautifulSoup
+- **SQLite Storage** - Structured database with data integrity validation
+- **EDA & Analytics** - User activity trends, engagement metrics, topic popularity
+- **Reproducible** - Documented Jupyter notebooks for every stage
 
 ---
 
-## ⚠️ Potential Challenges & Solutions:
+## Tech Stack
 
-- **Challenge:** Web structure changes (HTML/CSS updates) could break scraping scripts.
-  - **Solution:** Regular maintenance and modular design facilitate quick adaptations.
-
-- **Challenge:** Rate-limiting or blocking by Hispasonic servers due to frequent requests.
-  - **Solution:** Implementation of responsible scraping practices including request delays, rotation of user-agents, and use of proxies.
-
-- **Challenge:** Data inconsistencies or missing values from source HTML.
-  - **Solution:** Rigorous data validation and preprocessing methods are implemented to handle and correct discrepancies automatically.
+| Category | Tools |
+|----------|-------|
+| Scraping | `requests`, `BeautifulSoup` |
+| Data | `pandas`, `numpy`, `SQLite` |
+| Analysis | `Jupyter Notebooks` |
 
 ---
 
-## 🖥️ Quick Installation:
-
-Clone the repository:
+## Quick Start
 
 ```bash
-git clone https://github.com/albertjimrod/hispasonic-web-scraping-analysis.git
-cd hispasonic-web-scraping-analysis
+# Clone
+git clone https://github.com/albertjimrod/hispasonic.git
+cd hispasonic
 
+# Install dependencies
 pip install -r requirements.txt
 
+# Run notebooks in hispaok/
+jupyter notebook
+```
+
+---
+
+## Project Structure
+
+```
+hispasonic/
+├── hispaok/
+│   ├── 01_from_web_to_csv_togit.ipynb  # Main scraping notebook
+│   ├── csv/                             # Extracted data
+│   └── images/                          # Visualizations
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## Challenges & Solutions
+
+| Challenge | Solution |
+|-----------|----------|
+| Rate limiting | Request delays + user-agent rotation |
+| HTML structure changes | Modular design for quick fixes |
+| Missing data | Validation & preprocessing pipeline |
+
+---
+
+## Author
+
+**Alberto Jiménez** - [datablogcafe.com](https://datablogcafe.com) | [GitHub](https://github.com/albertjimrod)
+
+---
+
+## License
+
+MIT License - feel free to use and modify.
