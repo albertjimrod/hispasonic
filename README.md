@@ -49,9 +49,17 @@ jupyter notebook
 ```
 hispasonic/
 ├── hispaok/
-│   ├── 01_from_web_to_csv_togit.ipynb  # Main scraping notebook
-│   ├── csv/                             # Extracted data
-│   └── images/                          # Visualizations
+│   ├── 01_from_web_to_csv_togit.ipynb  # Scraping notebook
+│   ├── csv/                             # Raw scraped CSVs (source)
+│   └── images/                          # Scraping visualizations
+├── data/
+│   ├── raw/                             # 12 source CSVs (2022–2024)
+│   └── processed/                       # Unified dataset (gitignored)
+├── notebooks/
+│   ├── 01_etl.ipynb                     # ETL — load, normalize, unify all CSVs
+│   └── 02_eda.ipynb                     # EDA — temporal, price, brand, city analysis
+├── reports/
+│   └── figures/                         # Auto-generated charts from EDA
 ├── requirements.txt
 └── README.md
 ```
