@@ -79,3 +79,4 @@ Run the notebook to regenerate all figures.
 | ![](figures/24_sd_ratio_evolution_by_city.png) | S/D ratio evolution over time — top 5 cities |
 | ![](figures/25_global_supply_demand_ratio_price.png) | Global market: supply, demand, ratio and price over time |
 | ![](figures/26_seen_vs_price_by_city.png) | Mean views (passive demand) vs median price per city |
+| ![](figures/27_lagged_correlation_sd_ratio_vs_price.png) | Lagged correlation: does S/D ratio at (t) predict price at (t+1)? |
