@@ -1,82 +1,100 @@
-# Reports — EDA Figures
+# Reports — Figure Gallery
 
-Charts generated automatically by [`notebooks/02_eda.ipynb`](../notebooks/02_eda.ipynb).
-Run the notebook to regenerate all figures.
+All charts are generated automatically by the project notebooks and saved to `figures/`.
+Re-run each notebook to regenerate its figures.
 
----
-
-## Temporal evolution
-
-| Chart | Description |
-|-------|-------------|
-| ![](figures/01_listing_volume_over_time.png) | Listing volume per scrape date |
-| ![](figures/02_price_evolution_over_time.png) | Median and mean sell price over time (with IQR band) |
-| ![](figures/03_listing_type_share_over_time.png) | Sell / Buy / Change / Search share over time |
+| Notebook | Figures | Source |
+|----------|---------|--------|
+| `02_eda.ipynb` | 01–18 | EDA — temporal, price, brand, city, engagement, correlations |
+| `03_supply_demand.ipynb` | 19–27 | Supply & demand analysis by city and price |
 
 ---
 
-## Price analysis
+## Temporal Evolution
 
-| Chart | Description |
-|-------|-------------|
-| ![](figures/04_price_distribution.png) | Price histogram and boxplot (sell listings, ≤p99) |
+> Listing activity and price trends across the 12 scrape dates (Aug 2022 – May 2024).
 
----
-
-## Brand analysis
-
-| Chart | Description |
-|-------|-------------|
-| ![](figures/05_top_brands_by_listings.png) | Top 15 brands by listing count |
-| ![](figures/06_median_price_per_brand.png) | Median sell price per brand |
-| ![](figures/07_brand_evolution_over_time.png) | Top 8 brands — listing volume over time |
-| ![](figures/08_brand_time_heatmap.png) | Brand × scrape date heatmap |
+| # | Chart | Key insight |
+|---|-------|-------------|
+| 01 | ![](figures/01_listing_volume_over_time.png) | Supply peaks at ~800 listings in late 2022, halves in early 2023 and stabilises at ~250–400. |
+| 02 | ![](figures/02_price_evolution_over_time.png) | Median sell price fluctuates between €150 and €350. Mean is pulled up significantly by outliers. |
+| 03 | ![](figures/03_listing_type_share_over_time.png) | Sell listings represent ~92% of all types at every point in time. Demand signals (buy + search) never exceed 5%. |
 
 ---
 
-## Geographic analysis
+## Price Analysis
 
-| Chart | Description |
-|-------|-------------|
-| ![](figures/09_top_cities_by_listings.png) | Top 15 cities by listing count |
-| ![](figures/10_median_price_per_city.png) | Median sell price per city |
-| ![](figures/11_city_evolution_over_time.png) | Top 6 cities — listing volume over time |
+> Distribution, outliers and spread of sell listing prices.
+
+| # | Chart | Key insight |
+|---|-------|-------------|
+| 04 | ![](figures/04_price_distribution.png) | Median €250, IQR €75–550. Strongly right-skewed. 47 listings (0.86%) above the p99 cap of €5,500. |
+
+---
+
+## Brand Analysis
+
+> Volume, price positioning and temporal activity by brand.
+
+| # | Chart | Key insight |
+|---|-------|-------------|
+| 05 | ![](figures/05_top_brands_by_listings.png) | Roland and Korg dominate by volume. A large share of listings have no brand assigned (`-`). |
+| 06 | ![](figures/06_median_price_per_brand.png) | Moog and Buchla command the highest median prices (€800–1,200+). Budget brands cluster below €200. |
+| 07 | ![](figures/07_brand_evolution_over_time.png) | Roland and Korg maintain stable volume over time. Smaller brands show sporadic activity. |
+| 08 | ![](figures/08_brand_time_heatmap.png) | Market activity is brand-diverse but volume-concentrated. Most brand × date cells are sparse. |
+
+---
+
+## Geographic Analysis
+
+> Listing volume and price distribution across Spanish cities.
+
+| # | Chart | Key insight |
+|---|-------|-------------|
+| 09 | ![](figures/09_top_cities_by_listings.png) | Madrid (1,461) and Barcelona (1,015) together represent ~41% of all listings. Girona is an anomalous third. |
+| 10 | ![](figures/10_median_price_per_city.png) | Price varies by city but is driven by instrument mix, not geographic pricing power. |
+| 11 | ![](figures/11_city_evolution_over_time.png) | All cities show the same temporal pattern: peak late 2022, sharp drop early 2023, partial recovery. |
 
 ---
 
 ## Engagement
 
-| Chart | Description |
-|-------|-------------|
-| ![](figures/12_seen_distribution.png) | Views distribution |
-| ![](figures/13_price_vs_seen_scatter.png) | Price vs views scatter |
-| ![](figures/14_median_seen_per_brand.png) | Median views per brand |
+> Analysis of the `seen` (views) variable as a passive demand proxy.
+
+| # | Chart | Key insight |
+|---|-------|-------------|
+| 12 | ![](figures/12_seen_distribution.png) | Views are heavily right-skewed: median ~387, mean ~790, max 25,152. |
+| 13 | ![](figures/13_price_vs_seen_scatter.png) | No clear price–views relationship. Cheap listings attract more views, pulling the trend downward. |
+| 14 | ![](figures/14_median_seen_per_brand.png) | Moog and premium brands generate the highest median view counts per listing. |
 
 ---
 
-## Correlations and cross-group analysis
+## Correlations and Cross-Group Analysis
 
-| Chart | Description |
-|-------|-------------|
-| ![](figures/15_correlation_matrix.png) | Correlation matrix — all numeric variables |
-| ![](figures/16_brand_city_heatmap.png) | Brand × City listing count heatmap |
-| ![](figures/17_price_by_brand_and_type.png) | Median price by brand and listing type |
-| ![](figures/18_price_evolution_by_brand.png) | Median sell price over time — top 5 brands |
+> Numeric correlation structure and combined brand × city × type breakdowns.
+
+| # | Chart | Key insight |
+|---|-------|-------------|
+| 15 | ![](figures/15_correlation_matrix.png) | `sell` and `price` weakly correlated. `seen` is nearly independent of all listing-type flags. |
+| 16 | ![](figures/16_brand_city_heatmap.png) | Roland and Korg in Madrid and Barcelona account for a disproportionate share of all brand–city combinations. |
+| 17 | ![](figures/17_price_by_brand_and_type.png) | Buy request prices track closely to sell prices for premium brands — buyers have realistic expectations. |
+| 18 | ![](figures/18_price_evolution_by_brand.png) | Roland and Korg maintain stable long-term median prices. Smaller brands show high variance due to small samples. |
 
 ---
 
-## Supply & Demand analysis
+## Supply & Demand Analysis
 
 > Generated by [`notebooks/03_supply_demand.ipynb`](../notebooks/03_supply_demand.ipynb)
+> **Definitions:** Supply = `sell == 1` · Demand = `buy == 1` or `search == 1` · D/S ratio = demand / supply × 100
 
-| Chart | Description |
-|-------|-------------|
-| ![](figures/19_supply_vs_demand_by_city.png) | Supply vs demand side by side — top 15 cities |
-| ![](figures/20_sd_ratio_ranking_by_city.png) | S/D ratio ranking — seller's vs buyer's market per city |
-| ![](figures/21_sd_ratio_vs_price_scatter.png) | S/D ratio vs median price scatter (with regression) |
-| ![](figures/22_sd_ratio_and_price_dual_axis.png) | S/D ratio and median price dual axis — top 12 cities |
-| ![](figures/23_supply_demand_over_time_by_city.png) | Supply and demand over time — top 5 cities |
-| ![](figures/24_sd_ratio_evolution_by_city.png) | S/D ratio evolution over time — top 5 cities |
-| ![](figures/25_global_supply_demand_ratio_price.png) | Global market: supply, demand, ratio and price over time |
-| ![](figures/26_seen_vs_price_by_city.png) | Mean views (passive demand) vs median price per city |
-| ![](figures/27_lagged_correlation_sd_ratio_vs_price.png) | Lagged correlation: does S/D ratio at (t) predict price at (t+1)? |
+| # | Chart | Key insight |
+|---|-------|-------------|
+| 19 | ![](figures/19_supply_vs_demand_by_city.png) | Supply bars dominate in every city. Demand is nearly invisible at this scale — global D/S ratio is 4.42%. |
+| 20 | ![](figures/20_sd_ratio_ranking_by_city.png) | Every city is a buyer's market. No city reaches the 100% balanced line. Ciudad Real tops the ranking at 57% due to a near-zero supply denominator. |
+| 21 | ![](figures/21_sd_ratio_vs_price_scatter.png) | Pearson r = −0.291, p = 0.0529. The central hypothesis is not confirmed: higher D/S ratio does not lead to higher prices. |
+| 22 | ![](figures/22_sd_ratio_and_price_dual_axis.png) | Price and ratio move independently. Bizkaia has the lowest ratio yet one of the highest median prices — instrument mix drives price, not local demand. |
+| 23 | ![](figures/23_supply_demand_over_time_by_city.png) | The demand line is flat near zero for all cities throughout 2022–2024. Girona's supply collapsed entirely after early 2023. |
+| 24 | ![](figures/24_sd_ratio_evolution_by_city.png) | All cities stay in the 0–15% band. Girona shows a spike to 100% in Jul 2023 — a zero-denominator artefact, not a real demand event. |
+| 25 | ![](figures/25_global_supply_demand_ratio_price.png) | Supply halved in Jan 2023 and never recovered. Mean D/S ratio: 3.9%. Price anomalies in early 2023 are data sparsity artefacts. |
+| 26 | ![](figures/26_seen_vs_price_by_city.png) | Pearson r = −0.003, p = 0.985. Views have zero predictive power over price at city level. |
+| 27 | ![](figures/27_lagged_correlation_sd_ratio_vs_price.png) | Valencia is the only city with a statistically significant lagged correlation (r = 0.819, p = 0.002). All other 27 cities are not significant. |
