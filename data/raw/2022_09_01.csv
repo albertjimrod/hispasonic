@@ -1,0 +1,806 @@
+urgent,buy,change,sell,price,gift,search,repair,parts,synt_brand,description,city,published,expire,date_scrapped,seen,anon_user
+0,0,0,1,350,0,0,0,0,dreadbox,dreadbox nyx v1 ,Valencia,2022/05/08,2022/09/30,2022/09/01,742,1073
+0,0,0,1,350,0,0,0,0,modal electronics ,cobalt 5s ,Castellón,2022/07/25,2022/09/23,2022/09/01,350,1845
+0,0,0,1,900,0,0,0,0,moog,moog little phatty stage 2 ,Baleares,2021/07/10,2022/09/28,2022/09/01,584,635
+0,0,0,1,1100,0,0,0,0,kawai,kawai mp 11 ,Sevilla,2022/08/31,2022/10/30,2022/09/01,96,1879
+0,0,0,1,480,0,0,0,0,mpc,mpc live ssd 250 envío incluido ,Albacete,2022/08/25,2022/10/25,2022/09/01,226,438
+0,0,0,1,105,0,0,0,0,synthrotek,synthrotek fold ,Girona,2022/01/03,2022/09/20,2022/09/01,510,637
+0,0,0,1,1300,0,0,0,0,roland,roland fantom g6 ,Cuenca,2022/07/04,2022/09/18,2022/09/01,580,389
+0,0,1,0,0,0,0,0,0,kurzweil,kurzweil k2500x ,Madrid,2022/08/18,2022/10/17,2022/09/01,320,632
+0,0,0,1,80,0,0,0,0,midi,alesis qx49 - controlador midi ,Córdoba,2022/07/19,2022/09/17,2022/09/01,220,613
+0,0,0,1,2600,0,0,0,0,yamaha,yamaha genos con maleta ,Girona,2022/09/01,2022/10/31,2022/09/01,62,320
+0,0,0,1,500,0,0,0,0,roland,roland mc-909 sampling groovebox ,Barcelona,2021/06/22,2022/09/22,2022/09/01,2483,1301
+0,0,0,1,23,0,0,0,0,korg,korg t3 deslizador volumen ,Barcelona,2022/08/28,2022/10/27,2022/09/01,66,1198
+0,0,0,1,320,0,0,0,0,instruments,kordbot isla instruments ,Barcelona,2022/02/25,2022/09/27,2022/09/01,956,281
+0,1,0,0,0,0,0,0,0,roland,roland sound library pcm1-06 baroque ,Gipuzkoa,2021/04/01,2022/09/29,2022/09/01,606,1293
+0,0,0,1,600,0,0,0,0,roland,roland d-50 ,Barcelona,2021/12/30,2022/10/10,2022/09/01,1247,884
+0,0,0,1,260,0,0,0,0,m-audio,controlador midi usb m-audio oxygen 88 teclas ,A Coruña,2022/07/22,2022/09/20,2022/09/01,308,940
+0,0,0,1,4500,0,0,0,0,-,"varios sintetizadores, cajas ritmo, efectos ",A Coruña,2022/07/22,2022/09/20,2022/09/01,830,1091
+0,0,0,1,500,0,0,0,0,yamaha,yamaha su 700 ,Araba,2022/08/27,2022/10/27,2022/09/01,178,743
+0,0,0,1,200,0,0,0,0,jomox,jomox t-resonator mkii ,Cádiz,2022/07/09,2022/09/09,2022/09/01,604,719
+0,0,0,1,1000,0,0,0,0,pearl,piano pearl river pd180d ,Girona,2020/09/20,2022/10/08,2022/09/01,798,637
+0,0,1,0,410,0,0,0,0,poly,poly beebo no ,Las Palmas,2022/06/08,2022/09/20,2022/09/01,343,1101
+0,0,0,1,975,0,0,0,0,nord lead ,4 ,Barcelona,2022/04/10,2022/10/07,2022/09/01,1163,850
+0,0,0,1,380,0,0,0,0,4ms,4ms quad pingable lfo+quad clock distributor ,Barcelona,2021/10/09,2022/09/27,2022/09/01,1082,1031
+0,0,0,1,1111,0,0,0,0,eurorack,módulos eurorack ,Pontevedra,2022/08/25,2022/09/30,2022/09/01,372,964
+0,0,0,1,150,0,0,0,0,shakmat modular ,clock o'pawn nuevo ,Barcelona,2022/07/21,2022/09/28,2022/09/01,271,924
+0,0,0,1,729,0,0,0,0,moog,moog sub phatty ,Girona,2022/03/09,2022/09/02,2022/09/01,1010,637
+1,0,0,1,600,0,0,0,0,behringer,set de tres sintes analógicos enracados behringer ,Guadalajara,2022/06/11,2022/09/11,2022/09/01,1752,482
+0,0,0,1,2000,0,0,0,0,modular,sintetizador modular ,Madrid,2022/08/11,2022/09/30,2022/09/01,526,432
+0,0,0,1,55,0,0,0,0,roland,dos tarjetas para roland r8 memory card m-256e y contemporary percusion ,Madrid,2022/03/30,2022/09/26,2022/09/01,535,752
+0,0,0,1,175,0,0,0,0,-,makenoise st0 ,Madrid,2022/08/29,2022/10/28,2022/09/01,118,843
+0,0,0,1,240,0,0,0,0,neutron,neutron semimodular analógico ,Valencia,2021/02/15,2022/09/19,2022/09/01,1252,435
+0,0,0,1,525,0,0,0,0,korg,korg modwave + librerias envío incluido ,Cádiz,2022/05/17,2022/10/01,2022/09/01,937,539
+0,0,0,1,45,0,0,0,0,mpc,stand akai mpc live 1 fuera stock env incl ,Cádiz,2022/03/09,2022/09/28,2022/09/01,637,481
+0,0,0,1,370,0,0,0,0,roland,roland mv30 ,Sevilla,2022/06/05,2022/09/10,2022/09/01,768,914
+0,0,0,1,140,0,0,0,0,roland,groovebox roland d2 ,Madrid,2022/03/23,2022/09/26,2022/09/01,858,1293
+0,0,0,1,430,0,0,0,0,oto,oto machines oto bam ,Barcelona,2022/08/11,2022/10/13,2022/09/01,288,228
+0,0,1,1,0,0,0,0,0,-,modal argon 8 por ,Madrid,2022/08/27,2022/10/26,2022/09/01,205,969
+0,0,1,0,0,0,0,0,0,ketron,ketron sd 1000 ,Alicante,2022/08/04,2022/10/05,2022/09/01,210,976
+0,0,0,1,460,0,0,0,0,alesis,alesis micron ,Barcelona,2022/08/26,2022/10/25,2022/09/01,170,1278
+0,0,0,1,50,0,0,0,0,eurorack,modulos eurorack ultimos-rebajados ,Araba,2020/04/17,2022/09/30,2022/09/01,14612,709
+0,0,0,1,525,0,0,0,0,korg,korg krome 61 ,Cuenca,2022/02/07,2022/09/24,2022/09/01,1384,875
+0,0,0,1,300,0,0,0,0,akai,akai mpk88 ,Ourense,2022/06/15,2022/09/09,2022/09/01,447,763
+0,0,0,1,900,0,0,0,0,korg,korg triton extreme 88 ,Córdoba,2022/07/19,2022/09/17,2022/09/01,456,613
+0,0,0,1,120,0,0,0,0,behringer,behringer bcr2000 ,Madrid,2022/08/11,2022/10/13,2022/09/01,234,632
+0,0,0,1,175,0,0,0,0,befaco,befaco kickall ,Girona,2022/05/05,2022/09/04,2022/09/01,280,637
+0,0,0,1,500,0,0,0,0,korg,sintetizador korg wavestation ex ,Madrid,2022/08/31,2022/10/30,2022/09/01,112,303
+0,1,0,0,0,0,0,0,0,nord stage ,3 o electro 6d 73 ,Murcia,2022/06/14,2022/10/01,2022/09/01,392,520
+0,0,0,1,25,0,0,0,0,roland,tarjetas roland sn-u110 02 y 12 ,Girona,2022/01/02,2022/09/16,2022/09/01,569,521
+0,0,0,1,30,0,0,0,0,korg,delay korg monotron ,Gipuzkoa,2022/08/18,2022/10/19,2022/09/01,172,1388
+0,0,0,1,115,0,0,0,0,eurorack,transient 8s secuenciador eurorack de 8 pasos ,Girona,2020/10/30,2022/10/08,2022/09/01,544,637
+0,0,0,1,260,0,0,0,0,eurorack,tukra tesseract modular generador de baterias y secuenciador midi eurorack ,Barcelona,2022/08/18,2022/10/17,2022/09/01,266,1576
+0,0,0,1,800,0,0,0,0,teenage engineering ,op-1 + funda oficial ,Madrid,2022/05/19,2022/09/07,2022/09/01,686,994
+0,0,0,1,250,0,0,0,0,korg,korg ns5r modulo de sonido del korg n264 ,Alicante,2022/01/07,2022/09/23,2022/09/01,876,1153
+0,0,0,1,3349,0,0,0,0,-,sequential prophet 5 rev4 ,Bizkaia,2021/02/17,2022/09/26,2022/09/01,7964,533
+0,0,0,1,1000,0,0,0,0,hammond,hammond xk-3 ,A Coruña,2021/02/17,2022/09/26,2022/09/01,238,918
+0,0,0,1,800,0,0,0,0,yamaha,yamaha modx6 ,Granada,2022/08/18,2022/10/18,2022/09/01,254,1047
+0,0,0,1,450,0,0,0,0,-,studiologic sl88 grand ,Madrid,2022/08/18,2022/10/22,2022/09/01,294,1352
+0,0,0,1,65,0,0,0,0,akai,akai apc key25 en muy buen estado ,A Coruña,2022/07/02,2022/10/31,2022/09/01,232,535
+0,0,0,1,450,0,0,0,0,korg,korg wavestate ,Madrid,2022/07/25,2022/09/28,2022/09/01,640,526
+0,0,0,1,60,0,0,0,0,roland,roland memory card 256 ,Granada,2022/06/19,2022/09/27,2022/09/01,422,1203
+0,0,0,1,1200,0,0,0,0,jomox,jomox xbase 999 ,Barcelona,2022/08/31,2022/10/30,2022/09/01,60,537
+0,0,0,1,49,0,0,0,0,swissonic,swissonic easykey 25 ,Girona,2022/06/02,2022/10/04,2022/09/01,288,637
+0,0,0,1,250,0,0,0,0,m-audio,teclado midi m-audio axiom pro 49 ,Bizkaia,2017/09/10,2022/10/13,2022/09/01,763,1176
+0,0,0,1,259,0,0,0,0,arturia,arturia drumbrute ,Girona,2022/04/07,2022/09/10,2022/09/01,584,637
+0,0,0,1,55,0,0,0,0,eurorack,intellijel buff multiple · eurorack ,Valladolid,2022/07/14,2022/09/12,2022/09/01,318,488
+0,0,0,1,550,0,0,0,0,roland,roland fantom s 61 ,Alicante,2022/07/11,2022/09/09,2022/09/01,474,995
+0,0,0,1,250,0,0,0,0,eurorack,eurorack bubble sound dualsem20 ,Madrid,2022/08/25,2022/09/28,2022/09/01,118,869
+0,0,0,1,219,0,0,0,0,doepfer,doepfer a-100lc3v low cost case vintage edition ,Bizkaia,2022/05/25,2022/09/28,2022/09/01,577,533
+0,0,0,1,460,0,0,0,0,eurorack,eurorack loquelic iteritas percido ,Madrid,2022/08/25,2022/09/28,2022/09/01,130,869
+0,0,0,1,250,0,0,0,0,korg,korg sp250 nuevo sin uso con atril y banqueta ,Zaragoza,2022/07/07,2022/09/05,2022/09/01,489,762
+0,0,0,1,2050,0,0,0,0,korg,korg kronos 2 ,Madrid,2022/07/25,2022/09/28,2022/09/01,801,526
+0,0,0,1,59,0,0,0,0,yamaha,yamaha vrc 101 keyboard plucked & tuned percussion group ,Girona,2021/06/28,2022/09/26,2022/09/01,286,637
+0,0,0,1,0,0,0,0,0,-,"varios módulos make noise, mutable, cwejman en estado impecable ",Barcelona,2022/07/07,2022/09/05,2022/09/01,692,1055
+0,0,1,0,0,0,0,0,0,roland,roland s-220 sampler ,Tarragona,2022/07/05,2022/09/28,2022/09/01,467,1816
+0,0,0,1,499,0,0,0,0,-,modal argon8 ,Bizkaia,2021/03/29,2022/10/01,2022/09/01,4238,533
+0,0,0,1,249,0,0,0,0,zoom,zoom arq anillo sintetizador nuevo ,Girona,2022/06/10,2022/09/04,2022/09/01,487,637
+0,0,0,1,680,0,0,0,0,-,soma lyra 8 ,Asturias,2022/07/11,2022/09/09,2022/09/01,584,519
+0,0,0,1,50,0,0,0,0,doepfer,doepfer a 106 5 sem filter ,Pontevedra,2022/08/28,2022/10/27,2022/09/01,90,964
+0,0,0,1,2800,0,0,0,0,-,prophet sequential x ,Madrid,2022/08/11,2022/10/08,2022/09/01,236,476
+0,0,0,1,350,0,0,0,0,-,microkorg s ,Córdoba,2022/08/18,2022/10/17,2022/09/01,256,1077
+0,0,0,1,580,0,0,0,0,-,tarjeta exb-moss ,Madrid,2022/08/18,2022/10/19,2022/09/01,198,612
+0,0,0,1,45,0,0,0,0,korg,korg ds-1h pedal sustain made in japan ,Barcelona,2022/08/30,2022/10/29,2022/09/01,70,1079
+0,0,0,1,65,0,0,0,0,behringer,behringer 305 output module ,Pontevedra,2022/08/27,2022/09/30,2022/09/01,110,964
+0,0,0,1,130,0,0,0,0,instruments,mutable instruments braids clone ,La Rioja,2022/07/04,2022/10/01,2022/09/01,282,697
+0,0,0,1,930,0,0,0,0,nord lead ,3 ,Barcelona,2022/02/12,2022/09/20,2022/09/01,492,489
+0,0,0,1,160,0,0,0,0,moog,moog werkstatt 01 + cv expander ,Barcelona,2022/06/20,2022/09/29,2022/09/01,513,1065
+0,0,0,1,1350,0,0,0,0,kawai,sintetizador kawai sx-210 ,Huelva,2022/02/14,2022/09/20,2022/09/01,1404,703
+0,0,0,1,430,0,0,0,0,moog,moog mother 32 ,Sevilla,2022/08/11,2022/09/28,2022/09/01,354,512
+0,0,0,1,80,0,0,0,0,expert,expert sleepers disting mk1 ,Pontevedra,2022/08/31,2022/10/30,2022/09/01,48,964
+0,0,0,1,1070,0,0,0,0,-,asm hydrasynth ,Valencia,2021/09/03,2022/09/19,2022/09/01,3246,435
+0,0,0,1,930,0,0,0,0,novation,novation peak ,Valencia,2022/08/18,2022/09/28,2022/09/01,242,498
+0,0,0,1,210,0,0,0,0,electribe,korg electribe s mk2 ,Valencia,2019/06/19,2022/09/28,2022/09/01,1911,657
+0,0,0,1,125,0,0,0,0,-,maleta sintetizador 61 aluminio ,Murcia,2022/05/28,2022/09/25,2022/09/01,413,433
+0,0,0,1,70,0,0,0,0,yamaha,flightcase yamaha p 80 ,Madrid,2022/04/11,2022/10/01,2022/09/01,497,1419
+0,0,0,1,119,0,0,0,0,yamaha,yamaha rev 500 ,Girona,2021/12/23,2022/09/23,2022/09/01,846,637
+0,0,1,0,0,0,0,0,0,quiklok,soporte quiklok en perfecto estado ,Tarragona,2022/07/21,2022/09/28,2022/09/01,448,1816
+0,0,0,1,395,0,0,0,0,synthesis,modulo eurorack synthesis technology e560 deflector shield ,Madrid,2020/09/12,2022/10/27,2022/09/01,581,560
+0,1,0,0,0,0,0,0,0,-,monsoon o similar ,Pontevedra,2022/08/31,2022/10/30,2022/09/01,58,964
+0,0,0,1,100,0,0,0,0,eurorack,toms 000 eurorack ,Madrid,2022/07/22,2022/10/01,2022/09/01,340,1419
+0,0,0,1,310,0,0,0,0,fairfield,fairfield circuitry meet maude analog delay ,Madrid,2022/06/19,2022/09/29,2022/09/01,458,834
+0,0,0,1,379,0,0,0,0,roland,roland mc 101 ,Girona,2021/06/09,2022/09/23,2022/09/01,420,637
+0,0,0,1,495,0,0,0,0,roland,roland xv 5080 actualizado ,Málaga,2022/02/05,2022/10/04,2022/09/01,1711,1286
+0,0,0,1,600,0,0,0,0,nord lead ,clavia 1 rack - 12 voces ,Málaga,2022/07/24,2022/09/22,2022/09/01,753,1167
+0,0,0,1,750,0,0,0,0,moog,sintetizador moog subsequent 25 impoluto ,Valencia,2022/08/04,2022/10/05,2022/09/01,420,2271
+0,1,0,0,0,0,0,0,0,yamaha,yamaha psr-5700 ,Barcelona,2022/08/28,2022/10/28,2022/09/01,92,870
+0,0,0,1,1175,0,0,0,0,roland,sintetizador roland spv-355 ,Huelva,2022/08/18,2022/10/19,2022/09/01,238,703
+0,0,0,1,5200,0,0,0,0,system,verbos electronics - producer configuration system ,Granada,2022/08/29,2022/10/29,2022/09/01,166,1119
+1,0,0,1,430,0,0,0,0,finegear,multi-efectos the dust collector de finegear ,Madrid,2022/05/21,2022/10/17,2022/09/01,620,398
+0,0,0,1,260,0,0,0,0,-,o cambió rd 8 mki berhinger ,Alicante,2022/07/11,2022/09/09,2022/09/01,462,868
+0,0,0,1,180,0,0,0,0,akai,akai eb-16 eb16 fx card 2000 3000 y xl ,Madrid,2022/05/29,2022/09/30,2022/09/01,287,1151
+0,0,0,1,385,0,0,0,0,roland,roland mv30 ,Barcelona,2022/05/31,2022/09/13,2022/09/01,560,725
+0,0,0,1,350,0,0,0,0,roland,roland rd300sx ,Madrid,2022/08/04,2022/09/23,2022/09/01,418,839
+0,0,0,1,80,0,0,0,0,midi,native instruments maschine mark 1 controlador usb midi sin licencia ,Valencia,2021/04/11,2022/09/26,2022/09/01,1105,144
+0,0,0,1,12500,0,0,0,0,arp,arp 2600 + 3620 keyboard ,Girona,2021/02/05,2022/10/30,2022/09/01,1308,637
+0,1,0,0,0,0,0,0,0,eurorack,varios módulos eurorack ,Barcelona,2022/06/12,2022/09/29,2022/09/01,766,602
+0,0,0,1,550,0,0,0,0,yamaha,yamaha sy77 ,Girona,2022/03/16,2022/10/04,2022/09/01,766,637
+0,0,1,0,0,0,0,0,0,-,tripode pro por sintetizador ,Madrid,2022/08/01,2022/09/14,2022/09/01,332,1451
+0,0,0,1,40,0,0,0,0,behringer,módulo eurorack behringer 911 envelope generator ,Madrid,2022/08/04,2022/09/22,2022/09/01,142,1273
+0,0,0,1,999,0,0,0,0,synthesis,synthesis technology e370 quad morphing vco black ,Girona,2022/05/04,2022/09/30,2022/09/01,465,637
+0,0,0,1,339,0,0,0,0,make noise ,phonogene ,Girona,2021/07/28,2022/10/08,2022/09/01,1003,637
+0,0,0,1,370,0,0,0,0,audio,eurorack tip top audio ,Madrid,2022/08/26,2022/10/25,2022/09/01,148,726
+0,0,0,1,1300,0,0,0,0,nord electro ,hp 5 ,Barcelona,2022/04/16,2022/10/30,2022/09/01,1929,767
+0,0,0,1,1829,0,0,0,0,arp,arp 2600m nuevo tambien cambios ,Girona,2022/04/20,2022/09/09,2022/09/01,763,637
+0,0,0,1,500,0,0,0,0,deepmind 12 ,behringer ,Madrid,2022/08/18,2022/10/18,2022/09/01,316,474
+0,0,0,1,75,0,0,0,0,iomega,zip iomega 100 scsi ,Barcelona,2022/08/03,2022/09/28,2022/09/01,300,1188
+0,0,0,1,24,0,0,0,0,korg,korg t3 - tarjeta memoria ,Barcelona,2022/08/28,2022/10/27,2022/09/01,88,1198
+0,0,0,1,19,0,0,0,0,nord lead ,sonidos custom para a1 ,Cuenca,2018/04/11,2022/09/02,2022/09/01,3357,1049
+0,0,0,1,400,0,0,0,0,yamaha,yamaha sy77 + flightcase ,Baleares,2022/08/28,2022/10/27,2022/09/01,166,431
+0,0,0,1,1800,0,0,0,0,hammond,hammond e-262 de 1968 ,Zaragoza,2020/06/16,2022/10/01,2022/09/01,3319,859
+0,0,0,1,100,0,0,0,0,behringer,behringer 1050 mix sequencer ,Madrid,2022/08/11,2022/10/01,2022/09/01,332,1106
+0,0,0,1,50,0,0,0,0,eurorack,chipz modulo eurorack ,Madrid,2022/04/14,2022/09/15,2022/09/01,1870,986
+0,0,0,1,459,0,0,0,0,-,intellijel metropolis ,Girona,2022/03/18,2022/09/20,2022/09/01,356,637
+0,0,0,1,600,0,0,0,0,roland,roland juno ds 88 ,Navarra,2022/07/29,2022/09/27,2022/09/01,541,708
+0,0,0,1,59,0,0,0,0,yamaha,yamaha master group ,Girona,2021/06/28,2022/09/23,2022/09/01,582,637
+0,0,0,1,1390,0,0,0,0,hammond,hammond m100 año 1962 ,Zaragoza,2022/06/01,2022/10/01,2022/09/01,739,859
+0,0,0,1,1000,0,0,0,0,yamaha,yamaha cp40 con funda y pedal original impecable! ,Madrid,2020/10/11,2022/09/27,2022/09/01,3638,871
+0,0,0,1,600,0,0,0,0,roland,oportunidad! teclado roland exr-7 interactive arranger muy poco uso ,Barcelona,2021/11/08,2022/10/19,2022/09/01,557,498
+0,0,0,1,80,0,0,0,0,e-mu,e-mu proformance 1 módulo de sonidos de piano ,A Coruña,2022/05/11,2022/09/30,2022/09/01,475,1091
+0,0,0,1,50,0,0,0,0,arturia,arturia minilab mk2 ,Baleares,2022/08/18,2022/10/20,2022/09/01,94,631
+0,0,0,1,255,0,0,0,0,roland,roland tb 3 ,Girona,2022/02/16,2022/10/08,2022/09/01,460,637
+0,0,0,1,100,0,0,0,0,novation,novation impulse 25 ,Madrid,2021/12/07,2022/10/31,2022/09/01,1101,1194
+0,0,0,1,600,0,0,0,0,yamaha,teclado yamaha motif es8 - 88 teclas contrapesadas ,Ourense,2022/08/18,2022/10/15,2022/09/01,170,755
+0,0,0,1,800,0,0,0,0,virus,access virus kc ,Valencia,2022/08/18,2022/09/28,2022/09/01,346,498
+0,0,0,1,115,0,0,0,0,shakmat modular ,time wizard ,Madrid,2022/06/07,2022/09/29,2022/09/01,333,1054
+0,0,0,1,100,0,0,0,0,studio,studio electronics atc-1 2600 filter cartridge ,Barcelona,2021/09/21,2022/09/30,2022/09/01,706,602
+0,0,0,1,245,0,0,0,0,instruments,mutable instruments clouds completo ,Barcelona,2022/05/31,2022/10/30,2022/09/01,537,783
+0,0,0,1,550,0,0,0,0,evolver,dsi evolver ,Valencia,2021/11/02,2022/10/19,2022/09/01,1653,843
+0,0,0,1,1850,0,0,0,0,-,leslie 122 clásico y autónomo ,Zaragoza,2021/07/10,2022/09/24,2022/09/01,1043,859
+0,0,0,1,30,0,0,0,0,analogue systems ,rs-390 ,Barcelona,2021/10/24,2022/10/20,2022/09/01,598,1287
+0,0,1,0,0,0,0,0,0,-,erica fusión vco ,Tarragona,2022/03/12,2022/09/28,2022/09/01,660,554
+0,0,0,1,75,0,0,0,0,korg,korg nts -1 ,Barcelona,2022/08/31,2022/10/30,2022/09/01,96,1080
+0,0,0,1,359,0,0,0,0,arturia,arturia minibrute 2 ,Girona,2021/07/19,2022/09/06,2022/09/01,1602,637
+0,0,0,1,50,0,0,0,0,eurorack,fuente alimentación eurorack + bus board ,Barcelona,2022/08/03,2022/09/25,2022/09/01,266,1188
+0,0,0,1,325,0,0,0,0,-,wersi ex10r expander with 8-bit drums 1985 ,Madrid,2021/04/20,2022/09/25,2022/09/01,1469,729
+0,0,0,1,225,0,0,0,0,dynacord,"electrovoice fx70 emulador leslie de rack, igual al dynacord dls223 ",Sevilla,2021/05/01,2022/09/18,2022/09/01,460,651
+0,0,0,1,560,0,0,0,0,yamaha,yamaha p-125 b ,A Coruña,2022/07/09,2022/09/06,2022/09/01,328,951
+0,0,1,0,199,0,0,0,0,elektron,elektron model cycles no ,Las Palmas,2022/06/08,2022/09/20,2022/09/01,752,1101
+0,0,0,1,20,0,0,0,0,-,"orejas rack neutron, pro 1, k2 80hp fin stock env incl ",Cádiz,2021/01/22,2022/09/28,2022/09/01,1344,481
+0,0,0,1,390,0,0,0,0,xaoc,xaoc moskwa ii+ ostankino ii ,Alicante,2022/07/20,2022/09/23,2022/09/01,383,506
+0,0,0,1,60,0,0,0,0,doepfer,modulo eurorack doepfer a-110-1 ,Madrid,2022/08/04,2022/09/11,2022/09/01,208,1273
+0,0,0,1,95,0,0,0,0,adam,adam hall sks 22 xb ,Girona,2022/04/26,2022/10/30,2022/09/01,533,637
+0,0,0,1,450,0,0,0,0,korg,sintetizador piano korg n1 88 teclas contrapesadas ,Girona,2021/09/18,2022/09/21,2022/09/01,2672,1126
+0,0,1,0,0,0,0,0,0,roland,roland fa-06 ,Granada,2021/11/14,2022/09/27,2022/09/01,1684,641
+0,0,0,1,600,0,0,0,0,yamaha,yamaha cs-5 ,Madrid,2022/07/31,2022/09/28,2022/09/01,630,886
+0,0,0,1,1750,0,0,0,0,nord wave ,teclado 2 ,Barcelona,2022/07/17,2022/09/29,2022/09/01,786,1287
+0,0,0,1,390,0,0,0,0,kurzweil,kurzweil k2000r ,Alicante,2022/04/23,2022/10/26,2022/09/01,687,821
+0,0,0,1,260,0,0,0,0,korg,korg kaossilator pro + ,León,2022/07/11,2022/09/09,2022/09/01,201,1031
+0,0,0,1,239,0,0,0,0,novation,novation launchpad mkiii + deksaver ,Girona,2021/04/12,2022/09/15,2022/09/01,1062,637
+0,1,0,0,0,0,0,0,0,behringer,behringer di20 en madrid capital ,Madrid,2022/08/28,2022/10/01,2022/09/01,70,778
+0,0,0,1,120,0,0,0,0,soundforce,dual filter - soundforce ,Málaga,2022/08/30,2022/10/29,2022/09/01,86,560
+0,0,0,1,575,0,0,0,0,roland,roland d 550 ,Girona,2021/11/09,2022/10/30,2022/09/01,1035,637
+0,0,0,1,190,0,0,0,0,-,nord drum synth ,Madrid,2022/08/18,2022/09/26,2022/09/01,436,1151
+0,0,0,1,400,0,0,0,0,erica synths ,bassline db-01 ,Sevilla,2022/07/28,2022/09/26,2022/09/01,374,741
+0,0,1,0,0,0,0,0,0,roland,roland vs 24000 cd + monitor ,Tarragona,2022/07/29,2022/09/28,2022/09/01,396,1816
+0,0,0,1,50,0,0,0,0,eurorack,pack proyecto eurorack ,Barcelona,2022/08/03,2022/09/25,2022/09/01,420,1188
+0,0,0,1,35,0,0,0,0,-,funda para teclado de 5 octavas ,Madrid,2021/04/01,2022/09/26,2022/09/01,1004,845
+0,0,0,1,79,0,0,0,0,audio,grey audio 3340 ,Girona,2021/10/08,2022/10/08,2022/09/01,477,637
+1,0,0,1,550,0,0,0,0,acidlab,acidlab drumatix 606 ,Barcelona,2022/08/18,2022/10/16,2022/09/01,270,610
+0,0,0,1,5444,0,0,0,0,oberheim,oberheim obx8 nuevo solo una unidad disponible ,Girona,2022/05/10,2022/10/01,2022/09/01,568,637
+0,0,0,1,45,0,0,0,0,eurorack,eurorack case 70hp model d ,Madrid,2020/12/12,2022/10/26,2022/09/01,2280,834
+0,0,0,1,400,0,0,0,0,vermona,vermona drm mkii ,Burgos,2021/10/22,2022/10/24,2022/09/01,868,167
+0,0,0,1,139,0,0,0,0,-,endorphin milky way ,Girona,2022/02/01,2022/10/30,2022/09/01,910,637
+0,0,0,1,150,0,0,0,0,roland,roland d110 – sintetizador digital + tarjeta pn-d10-01 ,Madrid,2022/07/29,2022/09/25,2022/09/01,388,1261
+0,1,0,0,0,0,0,0,0,-,landscape stereo field ,Zaragoza,2022/08/11,2022/10/07,2022/09/01,168,394
+0,0,0,1,300,0,0,0,0,yamaha,yamaha tg33 tone generator vector synth ,Barcelona,2022/08/31,2022/10/30,2022/09/01,110,1042
+0,1,1,0,0,0,0,0,0,instruments,modulos mutable instruments ,Valencia,2022/08/11,2022/10/13,2022/09/01,194,725
+0,0,0,1,490,0,0,0,0,-,sintetizador dsi tetra envío incluido ,Albacete,2022/08/25,2022/10/25,2022/09/01,248,438
+0,0,0,1,185,0,0,0,0,yamaha,yamaha rm50 rhythm sound module ,Cantabria,2022/05/07,2022/10/01,2022/09/01,658,1090
+0,0,0,1,220,0,0,0,0,-,euclidean circles + six switches expansion ,Lugo,2022/08/25,2022/10/22,2022/09/01,130,843
+0,0,0,1,949,0,0,0,0,-,asm hydrasynth ,Girona,2022/06/09,2022/10/31,2022/09/01,841,637
+0,0,0,1,50,0,0,0,0,doepfer,modulo eurorack doepfer a-142-1 ,Madrid,2022/08/04,2022/09/22,2022/09/01,1168,1273
+0,0,0,1,225,0,0,0,0,-,tiptop z-dsp + dragonfly delay broken silicon + error codes 1 ,Baleares,2021/03/13,2022/10/11,2022/09/01,1485,708
+0,1,0,0,0,0,0,0,0,doepfer,doepfer a-192-2 ,La Rioja,2021/03/13,2022/10/24,2022/09/01,122,697
+0,0,0,1,790,0,0,0,0,eurorack,caja eurorack ,Girona,2022/04/08,2022/09/08,2022/09/01,682,637
+0,0,0,1,1000,0,0,0,0,novation,novation supernova ii en teclado ,Granada,2022/08/25,2022/10/22,2022/09/01,261,827
+0,1,0,0,0,0,0,0,0,doepfer,doepfer a-160-2 ,La Rioja,2022/07/08,2022/09/24,2022/09/01,192,697
+0,0,0,1,650,0,0,0,0,nord rack ,1 ,Barcelona,2022/05/10,2022/10/10,2022/09/01,471,599
+0,0,0,1,1450,0,0,0,0,novation,novation summit ,Baleares,2022/07/17,2022/09/25,2022/09/01,312,924
+0,0,0,1,300,0,0,1,0,arturia,waldorf blofeld negro + arturia minibrute para ,Barcelona,2022/07/21,2022/09/19,2022/09/01,582,326
+0,0,0,1,130,0,0,0,0,midi,akai xe8 midi drum expander ,Madrid,2021/03/20,2022/09/09,2022/09/01,2065,729
+0,0,0,1,465,0,0,0,0,system,roland system 1m ,Girona,2021/09/01,2022/09/27,2022/09/01,631,637
+0,0,0,1,200,0,0,0,0,acid,twisted electrons acid 8 mkii ,Madrid,2022/07/21,2022/09/19,2022/09/01,446,1170
+0,0,0,1,399,0,0,0,0,-,pedal de efecto neo ventilator ii ,Cádiz,2022/07/18,2022/09/16,2022/09/01,201,870
+0,0,0,1,90,0,0,0,0,doepfer,doepfer a-106-1 xtreme filter ms20 ,Barcelona,2022/06/08,2022/09/27,2022/09/01,281,1188
+0,0,0,1,179,0,0,0,0,roland,tarjeta srx02 concert piano de roland ,Toledo,2022/03/05,2022/09/13,2022/09/01,549,812
+0,0,0,1,250,0,0,0,0,audio,módulo de sonidos y efectos sm pro audio vmachine reproductor de pluggins vst ,Alicante,2022/07/02,2022/09/12,2022/09/01,562,632
+0,0,0,1,50,0,0,0,0,behringer,behringer 2500 1033 envolvente ,Barcelona,2022/06/22,2022/09/29,2022/09/01,596,602
+0,0,0,1,300,0,0,0,0,roland,roland r-8 2 unidades ,A Coruña,2022/06/22,2022/09/30,2022/09/01,151,1091
+0,0,0,1,75,0,0,0,0,-,"flightcase 19"" thon rack 5u eco ii compact 23 ",Cantabria,2022/07/22,2022/09/29,2022/09/01,348,504
+0,0,0,1,59,0,0,0,0,yamaha,yamaha vrc 103 sustain group ,Girona,2021/06/28,2022/09/26,2022/09/01,322,637
+0,0,0,1,580,0,0,0,0,elektron,elektron digitakt ,Badajoz,2022/08/04,2022/10/03,2022/09/01,354,537
+0,1,0,0,0,0,0,0,0,doepfer,doepfer a-103 vcf 6 ,La Rioja,2022/07/16,2022/09/24,2022/09/01,172,697
+0,0,0,1,290,0,0,0,0,-,kit controlador para leslies de 6 pines 122 y 147 familias 6h y 6w ,Zaragoza,2021/07/10,2022/10/01,2022/09/01,685,859
+0,0,0,1,899,0,0,0,0,teenage engineering ,op-1 ,Girona,2021/12/21,2022/10/30,2022/09/01,823,637
+0,0,0,1,390,0,0,0,0,akai,akai s3000xl + tarjeta eb16 + zip omega + manuales y cableado ,Tarragona,2022/06/30,2022/09/27,2022/09/01,432,808
+0,0,0,1,600,0,0,0,0,yamaha,yamaha reface dx + cs ,Barcelona,2022/08/18,2022/10/20,2022/09/01,222,1461
+0,0,0,1,1200,0,0,0,0,midi,teclado midi mpe linnstrument 200 teclas ,Madrid,2022/07/07,2022/09/05,2022/09/01,322,398
+0,0,0,1,510,0,0,0,0,yamaha,yamaha an1x reservado ,Barcelona,2022/08/31,2022/10/30,2022/09/01,178,1042
+0,0,0,1,370,0,0,0,0,roland,roland ju 06 a ,Barcelona,2022/08/31,2022/10/30,2022/09/01,134,1062
+0,0,0,1,500,0,0,0,0,roland,piano 88 contrapesadas roland hp1800s ,Zaragoza,2020/11/16,2022/10/27,2022/09/01,1295,857
+0,0,1,0,950,0,0,0,0,yamaha,yamaha modx6 en excelente estado con extras también ,Barcelona,2022/08/25,2022/09/30,2022/09/01,261,758
+0,0,0,1,60,0,0,0,0,arturia,arturia minilab mkii ,Málaga,2022/07/25,2022/09/23,2022/09/01,268,1141
+0,0,0,1,229,0,0,0,0,roland,roland tr 505 ,Girona,2022/03/24,2022/10/30,2022/09/01,1053,637
+0,0,0,1,389,0,0,0,0,roland,roland mv30 ,Madrid,2021/12/24,2022/10/01,2022/09/01,2000,1569
+0,0,0,0,0,1,0,0,0,-,ms20 mini keyboard ,Granada,2022/08/26,2022/10/26,2022/09/01,290,976
+0,0,0,1,975,0,0,0,0,decksaver,teenage enginering + decksaver + funda ,Girona,2022/05/25,2022/09/27,2022/09/01,376,637
+0,0,0,1,1050,0,0,0,0,kodamo,kodamo essence fm – sintetizador multitímbrico fm ,Madrid,2022/07/12,2022/09/25,2022/09/01,552,1261
+0,0,0,1,55,0,0,0,0,doepfer,doepfer a 101 2 lpg vactrol lowpasgate ,Pontevedra,2022/08/27,2022/09/30,2022/09/01,99,964
+0,0,0,1,100,0,0,0,0,maschine,maschine mk i ,Valencia,2020/04/26,2022/09/28,2022/09/01,2518,657
+0,0,0,1,4990,0,0,0,0,system,system ,Valencia,2022/08/18,2022/10/17,2022/09/01,380,1050
+0,0,0,1,180,0,0,0,0,eurorack,doboz touch sensing note memory eurorack ,Madrid,2022/06/29,2022/09/11,2022/09/01,300,652
+0,0,0,1,145,0,0,0,0,chronograf,frequency central chronograf ,Girona,2022/01/27,2022/10/30,2022/09/01,432,637
+0,0,0,1,75,0,0,0,0,doepfer,doepfer a189-1 ,Girona,2021/06/10,2022/09/26,2022/09/01,482,637
+0,0,0,1,1700,0,0,0,0,-,eminent solina string ensemble mk 1 ,Baleares,2021/07/04,2022/09/17,2022/09/01,1391,651
+0,0,0,1,170,0,0,0,0,korg,korg sd-400 signal delay 1978 ,Valencia,2022/05/08,2022/09/30,2022/09/01,940,1073
+0,0,0,1,205,0,0,0,0,befaco,befaco crush delay ,Girona,2021/06/04,2022/09/20,2022/09/01,416,637
+0,0,0,1,325,0,0,0,0,teenage engineering ,op-z ,Girona,2022/03/08,2022/09/29,2022/09/01,1358,506
+0,0,0,1,345,0,0,0,0,-,jen sx-2000 synthetone ,Madrid,2022/07/04,2022/09/02,2022/09/01,408,377
+0,0,0,1,400,0,0,0,0,polyend,polyend tracker ,Lugo,2022/08/18,2022/10/17,2022/09/01,134,404
+0,0,0,1,260,0,0,0,0,novation,novation mininova ,Pontevedra,2022/03/17,2022/09/29,2022/09/01,1034,693
+0,0,0,1,350,0,0,0,0,roland,sintetizador roland boutique se-02 ,Sevilla,2022/07/20,2022/09/18,2022/09/01,530,1139
+0,0,0,1,360,0,0,0,0,waldorf,waldorf blofeld desktop negro + licencia sl ,Barcelona,2021/05/31,2022/09/28,2022/09/01,834,906
+0,0,0,1,350,0,0,0,0,yamaha,piano midi yamaha p-95 ,Madrid,2022/08/04,2022/10/04,2022/09/01,242,2122
+0,0,0,1,120,0,0,0,0,alesis,alesis v61 + soporte de tijera ,Madrid,2022/08/11,2022/10/01,2022/09/01,228,1638
+0,0,0,1,3249,0,0,0,0,-,sequential prophet x ,Bizkaia,2020/12/18,2022/10/01,2022/09/01,3817,533
+0,0,0,1,850,0,0,0,0,kawai,piano eléctrico de escenario kawai mp-5 + fligth case ,Madrid,2022/07/11,2022/09/25,2022/09/01,257,756
+0,0,1,0,0,0,0,0,0,mpc,mpc live2 x one ,Madrid,2022/07/31,2022/09/08,2022/09/01,170,994
+0,0,0,1,400,0,0,0,0,critter,critter & guitari organelle ,Zaragoza,2022/06/21,2022/10/30,2022/09/01,244,452
+0,0,0,1,150,0,0,0,0,befaco,befaco vc adsr ,Barcelona,2022/05/09,2022/09/30,2022/09/01,204,1384
+0,0,0,1,100,0,0,0,0,-,nuevo a estrenar soporte para 2 teclados quicklok sl-8 ,Barcelona,2021/11/08,2022/10/19,2022/09/01,631,498
+0,1,0,0,0,0,0,0,0,behringer,behringer vc340 ,Madrid,2022/08/25,2022/09/30,2022/09/01,180,1226
+0,0,0,1,379,0,0,0,0,roland,roland eg 101 ,Girona,2021/06/08,2022/10/08,2022/09/01,1020,637
+0,0,0,1,80,0,0,0,0,boss,boss flanger bf3 ,Málaga,2022/05/17,2022/10/04,2022/09/01,263,940
+0,0,0,1,1550,0,0,0,0,0,roland v-synth gt 2 0 ,Burgos,2022/02/18,2022/09/27,2022/09/01,1489,561
+0,0,0,1,420,0,0,0,0,moog,moog minitaur ,Córdoba,2022/08/11,2022/10/09,2022/09/01,222,605
+0,0,0,1,420,0,0,0,0,-,varios módulos ,Barcelona,2022/07/29,2022/09/24,2022/09/01,558,1092
+0,0,0,1,20,0,0,0,0,roland,roland mt-32 lista de presets ,Madrid,2022/07/03,2022/09/25,2022/09/01,342,729
+0,0,0,1,250,0,0,0,0,e-mu,e-mu systems procussion ,Gipuzkoa,2022/08/30,2022/10/30,2022/09/01,124,1513
+0,0,0,1,1500,0,0,0,0,-,detachment 3 archangel ,Barcelona,2021/06/11,2022/09/28,2022/09/01,3366,924
+0,0,0,1,300,0,0,0,0,instruments,bastl instruments bit ranger ,Madrid,2022/07/21,2022/09/19,2022/09/01,376,1170
+0,0,0,1,311,0,0,0,0,roland,roland tb 03 ,Girona,2022/05/09,2022/09/13,2022/09/01,402,637
+0,0,0,1,900,0,0,0,0,nord lead ,4 rack ,Madrid,2022/08/03,2022/09/30,2022/09/01,404,282
+0,0,0,1,499,0,0,0,0,decksaver,roland verselab mv-1 + decksaver ,Girona,2022/07/18,2022/10/01,2022/09/01,456,1238
+0,0,0,1,430,0,0,0,0,squarp,squarp pyramid mk1 ,Barcelona,2022/05/17,2022/09/09,2022/09/01,463,1285
+0,0,0,1,180,0,0,0,0,-,"tarjetas voice crystal 1+2 para sq2 sqr+,sq1+ ",Barcelona,2022/08/01,2022/09/28,2022/09/01,192,588
+0,0,0,1,129,0,0,0,0,-,endorphin es airstreamer ,Girona,2022/01/21,2022/09/23,2022/09/01,456,637
+0,0,0,1,95,0,0,0,0,volca,korg volca bass ,Málaga,2022/07/13,2022/10/01,2022/09/01,362,2335
+0,0,0,1,320,0,0,0,0,yamaha,yamaha shs - 200 sintetizador keytar ,Madrid,2022/08/29,2022/10/29,2022/09/01,102,1084
+0,0,0,1,290,0,0,0,0,dynacord,dynacord percuter s v drum triggers ,Madrid,2021/07/20,2022/09/30,2022/09/01,834,1151
+0,0,0,1,850,0,0,0,0,moog,sintetizador moog granmother ,Barcelona,2022/08/26,2022/10/25,2022/09/01,172,720
+0,0,0,1,90,0,0,0,0,arturia,arturia keystep black edition ,Valencia,2022/08/11,2022/09/30,2022/09/01,290,1073
+0,0,0,1,390,0,0,0,0,korg,korg ms20 mini ,Sevilla,2022/08/25,2022/10/21,2022/09/01,136,509
+0,0,0,1,400,0,0,0,0,critter,critter & guitari organelle digital synth ,Pontevedra,2022/08/25,2022/10/22,2022/09/01,134,418
+0,0,0,1,530,0,0,0,0,mpc,akai mpc one ,Valencia,2022/08/18,2022/09/28,2022/09/01,308,498
+0,0,0,1,30,0,0,0,0,audio,libros de desarrollo de plugins y audio ,Alicante,2022/02/20,2022/09/29,2022/09/01,565,1058
+0,0,0,1,545,0,0,0,0,roland,roland tr 8s ,Girona,2022/02/17,2022/10/17,2022/09/01,938,637
+0,0,0,1,1990,0,0,0,0,odyssey,arp odyssey mkiii ,Girona,2021/07/15,2022/10/30,2022/09/01,1073,637
+0,0,0,1,40,0,0,0,0,eurorack,filtro eurorack magerit vcf ,Zaragoza,2022/08/25,2022/10/01,2022/09/01,92,1704
+0,0,0,1,1300,0,0,0,0,modular,sintetizador modular completo a estrenar ,Madrid,2022/02/19,2022/09/19,2022/09/01,1141,633
+0,0,0,1,650,0,0,0,0,oberheim,teclado controlador oberheim mc 3000 ,Badajoz,2022/08/25,2022/10/22,2022/09/01,224,1062
+0,0,0,1,130,0,0,0,0,emu,emu proteus 1 – sintetizador en rack ,Madrid,2022/07/29,2022/09/25,2022/09/01,370,1261
+1,0,0,1,20,0,0,0,0,yamaha,yamaha psr 3000 - librería para ni kontakt ,Córdoba,2022/06/01,2022/09/18,2022/09/01,215,536
+0,0,0,1,320,0,0,0,0,roland,roland jp-8000 ,Baleares,2022/08/25,2022/10/23,2022/09/01,474,541
+0,0,0,1,69,0,0,0,0,-,tip top mix z ,Girona,2021/06/21,2022/10/08,2022/09/01,415,637
+0,0,0,1,25,0,0,0,0,akai,akai cd-rom sound library mpc2000xl vol 1 ,Sevilla,2021/09/22,2022/09/12,2022/09/01,352,651
+0,0,0,1,650,0,0,0,0,instruments,mutable instruments ambika ,Barcelona,2022/08/18,2022/10/20,2022/09/01,194,489
+0,0,0,1,204,0,0,0,0,-,endorphin es godspeed + ,Girona,2022/01/19,2022/09/23,2022/09/01,465,637
+0,0,0,1,79,0,0,0,0,doepfer,doepfer a-160 -5v clock multiplier ,Girona,2022/05/10,2022/09/13,2022/09/01,347,637
+0,0,0,1,1,0,0,0,0,wmd make noise erica synth ,sistema modular euroack mutable instruments ,Sevilla,2022/08/18,2022/09/27,2022/09/01,593,413
+0,0,0,1,350,0,0,0,0,korg,teclado korg ds-8 1986 ,Murcia,2022/02/21,2022/09/09,2022/09/01,822,509
+0,0,0,1,200,0,0,0,0,instruo,instruo ts-l ,Barcelona,2022/07/20,2022/09/18,2022/09/01,204,173
+0,0,0,1,115,0,0,0,0,-,transient modules 8s sequencer ,Girona,2021/12/21,2022/09/04,2022/09/01,387,637
+0,0,0,1,179,0,0,0,0,korg,korg kossilator pro ,Girona,2022/05/20,2022/09/23,2022/09/01,419,637
+0,0,0,1,150,0,0,0,0,yamaha,yamaha rm50 versión rack de ry30 ,Valladolid,2022/07/16,2022/09/14,2022/09/01,360,664
+0,0,0,1,145,0,0,0,0,frequency,frequency central bartos flur ii ,Girona,2022/01/27,2022/10/08,2022/09/01,402,637
+0,0,0,1,800,0,0,0,0,yamaha,yamaha sy99 ,Madrid,2022/08/18,2022/10/18,2022/09/01,206,632
+0,0,0,1,480,0,0,0,0,yamaha,piano digital yamaha p140 en sevilla ,Sevilla,2022/07/27,2022/09/25,2022/09/01,256,470
+0,1,0,0,0,0,0,0,0,roland,roland xp50 averiado ,Madrid,2022/08/11,2022/10/13,2022/09/01,142,632
+0,0,0,1,10,0,0,0,0,korg,funda cubrepolvo a la medida para korg monopoly ,Madrid,2022/07/17,2022/09/26,2022/09/01,316,1103
+0,0,0,1,380,0,0,0,0,dreadbox,dreadbox hypnosis ,Barcelona,2022/02/12,2022/09/20,2022/09/01,859,489
+0,0,0,1,350,0,0,0,0,-,intellijel shapeshifter ,Madrid,2022/07/12,2022/10/01,2022/09/01,362,1419
+0,0,0,1,1750,0,0,0,0,-,amplificador type leslie 142 145 ,Zaragoza,2021/05/14,2022/09/21,2022/09/01,1462,859
+0,1,0,0,0,0,0,0,0,yamaha,yamaha psr-sx 600 ,Albacete,2022/08/18,2022/09/29,2022/09/01,172,649
+0,0,0,1,600,0,0,0,0,yamaha,"yamaha moxf 6, ",Barcelona,2022/07/16,2022/09/14,2022/09/01,406,1080
+0,0,0,1,899,0,0,0,0,elektron,elektron analog keys nuevo ,Madrid,2022/03/13,2022/09/30,2022/09/01,1494,961
+0,0,0,1,700,0,0,0,0,kawai,kawai ca 91 ,Barcelona,2022/03/27,2022/10/23,2022/09/01,320,1019
+0,0,0,1,650,0,0,0,0,roland,roland alpha juno 1 ,Barcelona,2022/08/18,2022/10/16,2022/09/01,273,1278
+0,0,0,1,49,0,0,0,0,korg,korg t3 lcd ,Barcelona,2022/08/28,2022/10/27,2022/09/01,52,1198
+0,0,0,1,1450,0,0,0,0,virus,access virus ti2 ,Barcelona,2022/08/30,2022/10/29,2022/09/01,144,487
+0,0,0,1,60,0,0,0,0,m-audio,m-audio oxygen pro mini ,Sevilla,2022/08/28,2022/10/27,2022/09/01,136,239
+0,0,0,1,490,0,0,0,0,midi,nerdseq y midi expander ,Barcelona,2022/07/10,2022/09/08,2022/09/01,282,530
+0,0,0,1,50,0,0,0,0,midi,lemi midi mixer ,Girona,2022/06/08,2022/10/08,2022/09/01,402,637
+0,0,0,1,2950,0,0,0,0,system,dreadbox white line system ,Valencia,2022/08/18,2022/10/17,2022/09/01,304,1050
+0,0,0,1,100,0,0,0,0,eurorack,varios módulos eurorack ,Madrid,2022/06/09,2022/10/09,2022/09/01,1176,562
+0,0,0,1,550,0,0,0,0,roland,roland gw8l ,Madrid,2021/11/03,2022/10/01,2022/09/01,688,806
+0,0,0,1,80,0,0,0,0,doepfer,eurorack doepfer wasp filter black and yellow ,Madrid,2022/08/25,2022/09/28,2022/09/01,112,869
+0,0,0,1,399,0,0,0,0,-,sintetizador analogico ,Tarragona,2022/04/21,2022/10/01,2022/09/01,1948,421
+0,0,0,1,110,0,0,0,0,-,sintes y mucho más ,Madrid,2022/08/25,2022/10/01,2022/09/01,717,962
+0,0,0,1,300,0,0,0,0,-,shuttle control ,Barcelona,2022/08/18,2022/09/28,2022/09/01,184,612
+0,0,0,1,2500,0,0,0,0,0,cirklon v1 0 ,Barcelona,2022/07/07,2022/09/05,2022/09/01,473,356
+0,0,0,1,2500,0,0,0,0,system,system v1 ,Valencia,2022/08/28,2022/10/28,2022/09/01,175,1050
+1,0,0,1,70,0,0,0,0,behringer,teclado maestro behringer umx490 ,Barcelona,2022/06/12,2022/09/29,2022/09/01,274,1980
+0,0,0,1,160,0,0,0,0,midi,befaco midi thing ,Barcelona,2022/08/01,2022/09/30,2022/09/01,201,1384
+0,0,0,1,195,0,0,0,0,kurzweil,kurzweil micropiano ,Alicante,2022/08/29,2022/10/28,2022/09/01,122,851
+0,0,0,1,38,0,0,0,0,yamaha,bolsa blanda para sintetizador yamaha mx49 o similar ,Alicante,2022/08/25,2022/10/22,2022/09/01,114,675
+0,0,0,1,5500,0,0,0,0,roland,roland tr 808 ,Girona,2021/12/16,2022/10/30,2022/09/01,676,637
+0,0,0,1,60,0,0,0,0,the,órgano hammond the sounder rebajado! ,Cantabria,2022/07/28,2022/09/26,2022/09/01,552,548
+0,1,0,0,0,0,0,0,0,kurzweil,kurzweil pc4 ,Ciudad Real,2022/07/28,2022/10/28,2022/09/01,92,733
+0,0,0,1,519,0,0,0,0,modular,winter modular eloquencer ,Girona,2021/11/23,2022/10/08,2022/09/01,636,637
+0,0,0,1,100,0,0,0,0,iomega,zip scsi iomega ,Málaga,2022/08/25,2022/10/23,2022/09/01,148,1634
+0,0,0,1,160,0,0,0,0,-,temps utile ,Valencia,2022/07/01,2022/09/05,2022/09/01,504,544
+0,0,0,1,825,0,0,0,0,roland,roland vr700 v-combo ,Sevilla,2017/04/12,2022/09/30,2022/09/01,6471,1196
+0,0,0,1,750,0,0,0,0,kawai,kawai vpc1 en perfecto estado ,Granada,2022/07/23,2022/09/21,2022/09/01,409,470
+0,0,0,1,650,0,0,0,0,-,sintetizador ver­mona drm1 mk3 trigger ,Cantabria,2022/07/22,2022/09/27,2022/09/01,206,504
+0,0,0,1,135,0,0,0,0,0,bastl instruments micro granny 2 0 ,Madrid,2022/07/21,2022/09/19,2022/09/01,505,1170
+0,0,0,1,200,0,0,0,0,monome,monome 40h ,Madrid,2021/07/14,2022/10/28,2022/09/01,599,622
+0,0,0,1,1290,0,0,0,0,korg,korg sq10 secuenciador ,Girona,2022/06/10,2022/09/04,2022/09/01,585,637
+0,0,0,1,399,0,0,0,0,korg,"sinte korg ms-20 mini "" nuevo"" ",Alicante,2022/08/04,2022/09/27,2022/09/01,312,380
+0,0,0,1,40,0,0,0,0,doepfer,doepfer switched multiple a-182-1 ,Zaragoza,2022/08/25,2022/10/01,2022/09/01,104,1704
+0,0,0,1,450,0,0,0,0,modular,módulos befaco sinte modular ,Madrid,2021/08/30,2022/10/11,2022/09/01,2274,1156
+0,0,0,1,300,0,0,0,0,-,tessseract tukra ,Barcelona,2022/08/02,2022/10/01,2022/09/01,197,602
+0,0,0,1,550,0,0,0,0,elektron,elektron digitone ,S.C. de Tenerife,2022/08/02,2022/10/25,2022/09/01,120,910
+0,0,0,1,1690,0,0,0,0,kurzweil,piano digital kurzweil x-pro up 88 teclas ,Madrid,2021/07/23,2022/09/29,2022/09/01,1280,812
+0,0,0,1,150,0,0,0,0,-,box11 cabinet mas laterales ,Barcelona,2022/05/22,2022/09/29,2022/09/01,440,602
+0,0,0,1,60,0,0,0,0,behringer,behringer 121 dual vcf ,La Rioja,2022/06/23,2022/10/24,2022/09/01,284,697
+0,0,0,1,1400,0,0,0,0,kurzweil,kurzweil forte 88 teclas ,Córdoba,2022/01/08,2022/10/14,2022/09/01,670,1285
+0,0,0,1,180,0,0,0,0,-,ableton push - primera versión ,A Coruña,2022/07/27,2022/09/25,2022/09/01,285,840
+0,0,0,1,240,0,0,0,0,-,studiologic numa compact 2 impecable sin uso ,Madrid,2022/08/25,2022/10/23,2022/09/01,270,1352
+0,0,0,1,100,0,0,0,0,cme,teclado controlador midi cme xkey 25 silver + cme supernova para el transporte ,Las Palmas,2021/04/23,2022/10/28,2022/09/01,872,490
+0,0,0,1,199,0,0,0,0,audio,antimatter audio crossfold ,Bizkaia,2021/10/07,2022/09/29,2022/09/01,533,533
+0,0,0,1,195,0,0,0,0,-,twisted electrons cells ,Girona,2021/06/16,2022/09/25,2022/09/01,376,637
+0,0,0,1,1600,0,0,0,0,nord electro ,clavia 6d 73 + funda ,Madrid,2022/08/11,2022/09/30,2022/09/01,600,479
+0,0,0,1,315,0,0,0,0,e-mu,e-mu orbit v2 9090 ,Madrid,2022/07/04,2022/09/02,2022/09/01,310,377
+0,0,0,1,950,0,0,0,0,yamaha,yamaha motif xs 6 ,Madrid,2019/12/16,2022/09/28,2022/09/01,4735,769
+0,0,0,1,625,0,0,0,0,akai,akai s6000 v2 ,Girona,2021/02/18,2022/10/30,2022/09/01,3471,637
+0,0,0,1,265,0,0,0,0,korg,teclado korg x3 ,Girona,2022/04/03,2022/09/25,2022/09/01,914,394
+0,0,0,1,600,0,0,0,0,-,leslie 322 ,Alicante,2022/05/28,2022/09/21,2022/09/01,758,1371
+0,0,0,1,300,0,0,0,0,roland,roland rs-5 ,Madrid,2022/08/25,2022/10/21,2022/09/01,167,1035
+0,0,0,1,2650,0,0,0,0,-,sequential prophet x ,Cádiz,2022/07/29,2022/09/28,2022/09/01,532,436
+0,0,0,1,390,0,0,0,0,roland,roland kc 200 ,Girona,2022/04/22,2022/10/30,2022/09/01,398,637
+0,0,0,1,220,0,0,0,0,akai,akai mpk61 ,Barcelona,2022/07/04,2022/09/02,2022/09/01,319,387
+0,0,0,1,240,0,0,0,0,waldorf,waldorf streichfett ,Barcelona,2022/08/18,2022/10/01,2022/09/01,234,613
+0,0,0,1,139,0,0,0,0,-,endorphin milky way ,Girona,2021/03/05,2022/09/20,2022/09/01,619,637
+0,0,0,1,53,0,0,0,0,doepfer,doepfer a 116 vc waveform processor ,Girona,2022/03/31,2022/10/08,2022/09/01,330,637
+0,0,0,1,350,0,0,0,0,odyssey,behringer odyssey envío incluido ,Cádiz,2022/08/25,2022/10/01,2022/09/01,379,539
+0,0,0,1,300,0,0,0,0,-,kurzweill k2500 teclado ,Baleares,2022/08/27,2022/10/27,2022/09/01,126,771
+0,0,0,1,144,0,0,0,0,-,endorphin es total recall ,Girona,2022/01/20,2022/10/08,2022/09/01,433,637
+0,0,0,1,135,0,0,0,0,novation,novation launchkey 37 mk3 ,Madrid,2022/07/30,2022/09/28,2022/09/01,246,1477
+0,0,0,1,20,0,0,0,0,kurzweil,extras kurzweil k2000 ,Zaragoza,2022/04/06,2022/09/15,2022/09/01,1446,947
+0,0,0,1,300,0,0,0,0,waldorf,waldorf blofeld black edition ,Barcelona,2022/02/10,2022/10/14,2022/09/01,512,1461
+0,0,0,1,110,0,0,0,0,yamaha,teclado yamaha psr-e263 ,Barcelona,2021/10/03,2022/09/17,2022/09/01,760,424
+0,1,0,0,0,0,0,0,0,roland,laterales de aluminio para roland system-8 ,Gipuzkoa,2022/07/09,2022/09/29,2022/09/01,194,1293
+0,0,0,1,350,0,0,0,0,yamaha,yamaha tx7 ,Alicante,2022/08/29,2022/10/28,2022/09/01,116,851
+0,0,0,1,95,0,0,0,0,-,maleta flight-case - estuche para teclado ,Girona,2022/08/04,2022/09/25,2022/09/01,166,394
+0,0,0,1,90,0,0,0,0,roland,roland sc-33 ,Madrid,2022/05/15,2022/09/25,2022/09/01,607,729
+0,0,0,1,4500,0,0,0,0,alesis,alesis andromeda a6 ,Girona,2021/07/13,2022/09/27,2022/09/01,984,637
+0,0,0,1,200,0,0,0,0,novation,novation bass station rack ,Valencia,2021/09/30,2022/09/22,2022/09/01,1698,824
+0,0,0,1,1750,0,0,0,0,yamaha,yamaha motif xf8 ,Madrid,2022/07/30,2022/09/21,2022/09/01,382,1514
+0,0,0,1,320,0,0,0,0,waldorf,waldorf pulse 2 ,Madrid,2022/04/28,2022/10/30,2022/09/01,792,613
+0,0,0,1,169,0,0,0,0,befaco,befaco muxlicer ,Girona,2022/01/27,2022/10/30,2022/09/01,322,637
+0,0,0,1,149,0,0,0,0,-,error box adm03 ,Girona,2021/06/09,2022/09/04,2022/09/01,435,637
+0,0,1,0,0,0,0,0,0,-,ginkosynthese samplerslicer ,Tarragona,2022/03/12,2022/09/28,2022/09/01,512,554
+0,0,0,1,55,0,0,0,0,casio,casio vl-tone vl-1 ,León,2021/04/01,2022/09/17,2022/09/01,1092,524
+0,0,0,1,5300,0,0,0,0,hammond,hammond c3 1961 chop down portable ,Zaragoza,2018/12/28,2022/10/01,2022/09/01,4574,859
+0,0,0,1,25,0,0,0,0,yamaha,analog xperience para yamaha modx y montage ,Madrid,2019/09/21,2022/09/10,2022/09/01,2126,517
+0,0,0,1,200,0,0,0,0,waldorf,sintetizador waldorf streichfett string machine ,Granada,2022/08/31,2022/10/30,2022/09/01,86,723
+0,0,0,1,285,0,0,0,0,korg,korg minilogue ,Albacete,2022/02/07,2022/10/03,2022/09/01,1814,410
+0,0,0,1,125,0,0,0,0,tiptop audio ,hats808 ,Girona,2022/04/07,2022/10/29,2022/09/01,499,637
+0,0,0,1,1050,0,0,0,0,virus,virus ti 2 desktop ,Barcelona,2022/08/25,2022/09/29,2022/09/01,306,1287
+0,0,0,1,110,0,0,0,0,poly,casio vl-5 vl1 poly con lector y funda ,Zaragoza,2022/02/26,2022/09/29,2022/09/01,1055,321
+0,0,0,1,950,0,0,0,0,korg,"korg ms-20 fs en negro versión montada, no la versión kit ",Madrid,2022/01/26,2022/10/17,2022/09/01,472,398
+0,0,0,1,1950,0,0,0,0,echo,roland echo re501 ,Valencia,2022/08/29,2022/10/29,2022/09/01,178,1050
+0,0,0,1,190,0,0,0,0,make noise ,wogglebug ,Barcelona,2022/08/11,2022/10/01,2022/09/01,154,602
+0,0,0,1,1200,0,0,0,0,ketron,teclado ketron audya 5 ,Bizkaia,2022/08/25,2022/10/21,2022/09/01,138,751
+0,0,0,1,600,0,0,0,0,nord lead ,sintetizador virtual analógico ,Tarragona,2022/07/17,2022/09/13,2022/09/01,493,1138
+0,0,0,1,200,0,0,0,0,korg,korg 01 wfd ,Madrid,2022/08/11,2022/10/13,2022/09/01,330,632
+0,0,0,1,239,0,0,0,0,behringer,behringer wasp deluxe ,Girona,2021/12/30,2022/10/30,2022/09/01,946,637
+0,0,0,1,420,0,0,0,0,moog,moog mother 32 ,Granada,2022/09/01,2022/10/31,2022/09/01,58,723
+0,0,0,1,300,0,0,1,1,mpc,mpc live para o ,Toledo,2022/01/03,2022/10/30,2022/09/01,1006,1312
+0,0,0,1,1260,0,0,0,0,midi,korg polysix con midi ,Baleares,2022/08/11,2022/10/13,2022/09/01,236,596
+0,0,0,1,180,0,0,1,0,waldorf,waldorf blofeld para ,Albacete,2022/07/05,2022/09/03,2022/09/01,598,807
+0,0,0,1,275,0,0,0,0,atomosynth,mochika x2 atomosynth ,Sevilla,2022/07/31,2022/09/19,2022/09/01,396,762
+0,0,0,1,360,0,0,0,0,behringer,modulos eurorack behringer ,Barcelona,2022/08/25,2022/09/28,2022/09/01,302,1104
+0,0,0,1,700,0,0,0,0,access,access matrix programmer ,Barcelona,2022/08/03,2022/09/28,2022/09/01,415,1188
+0,0,0,1,450,0,0,0,0,odyssey,korg arp odyssey módulo rev 3 ,Barcelona,2022/07/02,2022/09/27,2022/09/01,724,1031
+0,0,0,1,3500,0,0,0,0,kawai,kawai sx240 ,Barcelona,2022/08/11,2022/10/10,2022/09/01,266,1195
+0,0,0,1,150,0,0,0,0,-,tc electronics nova delay ,Barcelona,2022/08/31,2022/10/30,2022/09/01,84,537
+0,0,0,1,260,0,0,0,0,dreadbox,dreadbox hades ,Madrid,2022/01/17,2022/09/15,2022/09/01,1266,986
+0,0,0,1,300,0,0,0,0,korg,korg microkorg xl ,Valencia,2022/08/11,2022/10/10,2022/09/01,222,772
+0,0,0,1,35,0,0,0,0,tascam,tascam 246 pinch roller ,Madrid,2020/01/20,2022/09/06,2022/09/01,939,1444
+0,0,0,1,450,0,0,0,0,yamaha,sintetizador yamaha sy22 ,Madrid,2022/06/16,2022/10/27,2022/09/01,296,955
+0,0,0,1,200,0,0,0,0,delptronics,"delptronics trigger man, ldb 2e, ldb 2x ",Madrid,2022/07/13,2022/10/01,2022/09/01,333,1419
+0,1,0,0,0,0,0,0,0,e-mu,e-mu orbit 3 ,Madrid,2022/07/25,2022/09/14,2022/09/01,224,1451
+0,0,0,1,105,0,0,0,0,volca,korg volca drum ,Baleares,2022/07/05,2022/09/27,2022/09/01,425,1523
+0,0,0,1,40,0,0,0,0,yamaha,cartucho rom yamaha dx7s ,Madrid,2022/02/27,2022/09/26,2022/09/01,419,752
+0,0,0,1,200,0,0,0,0,-,"acordeon stela 34 teclas-60 bajos, ",Zaragoza,2020/11/16,2022/10/27,2022/09/01,653,857
+0,0,0,1,329,0,0,0,0,-,modcan triple oscilator ,Girona,2021/06/11,2022/10/08,2022/09/01,433,637
+0,0,0,1,800,0,0,0,0,analogue solutions ,leipzig-s ,Valencia,2022/08/18,2022/09/24,2022/09/01,226,498
+0,1,0,0,0,0,0,0,0,-,op-lab ,Granada,2022/07/04,2022/09/02,2022/09/01,192,976
+0,0,0,1,90,0,0,0,0,audio,m audio keystation 61 mk3 ,Barcelona,2022/07/14,2022/09/18,2022/09/01,356,986
+0,0,0,1,485,0,0,0,0,roland,roland d550 ,Alicante,2022/08/29,2022/10/28,2022/09/01,166,851
+0,0,0,1,500,0,0,0,0,korg,korg m3-m xpanded ,Murcia,2021/12/17,2022/09/13,2022/09/01,2116,845
+0,0,0,1,59,0,0,0,0,yamaha,yamaha vrc 102 wind instrument group ,Girona,2021/06/29,2022/09/26,2022/09/01,308,637
+0,0,0,1,100,0,0,0,0,befaco,secuenciador analógico befaco slicer v3 ,Asturias,2022/02/22,2022/09/14,2022/09/01,547,1045
+0,0,0,1,190,0,0,0,0,instruments,mutable instruments plaits ,Barcelona,2022/08/18,2022/09/28,2022/09/01,168,612
+0,0,0,1,120,0,0,0,0,miditech,módulo de sonidos pianobox usb de miditech ,Alicante,2022/05/11,2022/09/12,2022/09/01,596,632
+0,0,0,1,219,0,0,0,0,eurorack,vermona qmi eurorack como nuevo ,Madrid,2022/07/08,2022/09/19,2022/09/01,300,839
+0,0,0,1,20,0,0,0,0,roland,roland jx-3p - librería para ni kontakt y reason ,Córdoba,2022/06/01,2022/09/18,2022/09/01,185,536
+0,0,0,1,1800,0,0,0,0,roland,roland jd-800 impecable ,Barcelona,2021/02/18,2022/09/20,2022/09/01,4331,1090
+0,0,0,1,260,0,0,0,0,arturia,arturia microfreak ,Madrid,2022/08/29,2022/10/28,2022/09/01,144,1021
+0,0,0,1,375,0,0,0,0,e,e mu xtreme lead 1 ,Girona,2021/09/22,2022/10/30,2022/09/01,1120,637
+0,0,0,1,80,0,0,0,0,yamaha,yamaha dx7 breath controler bc1 ,Madrid,2022/08/18,2022/09/30,2022/09/01,315,1151
+0,0,0,1,220,0,0,0,0,erica synths ,black output v2 ,Madrid,2022/06/07,2022/09/29,2022/09/01,282,1054
+0,1,0,0,0,0,0,0,0,arturia,arturia minibrute 2s ,Asturias,2022/08/25,2022/09/25,2022/09/01,88,1503
+0,0,0,1,590,0,0,0,0,eurorack,"usta, secuenciador eurorack ",Madrid,2022/08/26,2022/09/28,2022/09/01,146,648
+0,1,1,0,0,0,0,0,0,roland,"busco,compro o roland mc 505 groovebox para despiece ",Sevilla,2021/04/13,2022/10/25,2022/09/01,687,855
+0,0,0,1,3750,0,0,0,0,roland,roland superjupiter mks 80 + programmer mpg 80 en perfecto estado ,Barcelona,2022/07/05,2022/09/03,2022/09/01,642,1055
+0,0,0,1,150,0,0,0,0,roland,roland xv-2020 ,Madrid,2022/08/30,2022/10/29,2022/09/01,176,537
+0,0,0,1,2250,0,0,0,0,roland,roland juno 106 seminuevo ,Valencia,2022/08/29,2022/10/29,2022/09/01,220,1050
+0,0,0,1,1450,0,0,0,0,roland,roland fantom 07 ,Girona,2022/07/07,2022/09/05,2022/09/01,840,320
+0,0,0,1,345,0,0,0,0,modular,modular ,Madrid,2021/03/23,2022/10/27,2022/09/01,910,560
+0,0,0,1,189,0,0,0,0,gator,flight case gator ,Girona,2022/04/05,2022/10/08,2022/09/01,474,637
+0,0,0,1,1500,0,0,0,0,hammond,hammond xk3c ,Barcelona,2022/01/17,2022/09/22,2022/09/01,1583,972
+0,0,0,1,400,0,0,0,0,korg,korg 01w fd ,Córdoba,2022/07/19,2022/09/17,2022/09/01,296,613
+0,0,0,1,1430,0,0,0,0,arturia,arturia matrix brute ,Granada,2022/02/27,2022/09/27,2022/09/01,944,853
+0,1,0,0,0,0,0,0,0,arturia,"arturia minilab mk2 edición limitada ""deep black"" ",Barcelona,2022/08/18,2022/10/18,2022/09/01,106,1121
+0,0,0,1,500,0,0,0,0,yamaha,sintetizador yamaha mo6 ,Madrid,2021/06/28,2022/09/29,2022/09/01,596,708
+0,0,0,1,104,0,0,0,0,doepfer,doepfer a 110 1 vco ,Girona,2022/02/22,2022/09/25,2022/09/01,423,637
+0,0,0,1,3990,0,0,0,0,music,clone buchla electric music box ,Girona,2021/12/02,2022/10/31,2022/09/01,596,637
+0,0,0,1,200,0,0,0,0,instruments,rebajado - mutable instruments clouds original ,Madrid,2022/05/04,2022/09/29,2022/09/01,1319,494
+0,0,0,1,125,0,0,0,0,korg,korg p3 piano module ,Madrid,2021/03/20,2022/09/16,2022/09/01,2098,729
+0,0,0,1,800,0,0,0,0,moog,moog slim phatty ,Ávila,2022/08/25,2022/09/30,2022/09/01,218,1624
+0,0,0,1,220,0,0,0,0,befaco,befaco muxlicer + mex modulos ,Alicante,2022/07/19,2022/09/18,2022/09/01,260,506
+0,0,0,1,1469,0,0,0,0,arturia,arturia matrixbrute ,Girona,2022/03/10,2022/09/23,2022/09/01,610,637
+0,1,0,0,0,0,0,0,0,korg,korg lambda ,Granada,2022/08/04,2022/09/27,2022/09/01,152,1203
+0,0,1,0,0,0,0,0,0,korg,korg microkorg ,Granada,2022/05/25,2022/09/27,2022/09/01,548,641
+0,0,0,1,1679,0,0,0,0,waldorf,waldorf m sintetizador wavetable ,Bizkaia,2021/12/24,2022/09/28,2022/09/01,1452,533
+0,0,0,1,900,0,0,0,0,korg,korg karma full expanded ,Barcelona,2022/05/10,2022/09/17,2022/09/01,774,859
+0,0,1,0,500,0,0,0,0,yamaha,yamaha dx7s ,Barcelona,2022/07/14,2022/09/12,2022/09/01,496,638
+0,0,0,1,225,0,0,0,0,akai,akai advance 49 ,Alicante,2021/05/22,2022/09/27,2022/09/01,1738,614
+0,0,0,1,1150,0,0,0,0,dexibell,piano de escenario - teclado master dexibell vivo s7 pro ,La Rioja,2022/08/03,2022/09/26,2022/09/01,408,544
+0,0,0,1,1,0,0,0,0,moog,novation 25 sl mk2 custom moog ,Valencia,2022/08/11,2022/10/10,2022/09/01,380,772
+0,0,0,1,50,0,0,0,0,yamaha,funda yamaha mox6 ,Valladolid,2022/08/25,2022/10/22,2022/09/01,116,366
+0,0,0,1,259,0,0,0,0,behringer,behringer pro-1 ,Cantabria,2022/08/31,2022/10/30,2022/09/01,124,1512
+0,0,0,1,800,0,0,0,0,decksaver,ni maschine plus + expansiones + decksaver ,Barcelona,2022/08/11,2022/09/28,2022/09/01,368,1188
+0,0,0,1,140,0,0,0,0,arturia,arturia beatstep pro black ,Madrid,2022/08/18,2022/10/31,2022/09/01,179,1151
+0,0,0,1,110,0,0,0,0,-,"step fader is a dual sequencer, here is a cv basic offset ",Barcelona,2022/07/05,2022/09/27,2022/09/01,719,1188
+0,0,0,1,12,0,0,0,0,yamaha,"yamaha cp70 pianos para yamaha motif xf, moxf, montage y modx ",Madrid,2018/08/13,2022/09/10,2022/09/01,3396,517
+0,0,0,1,500,0,0,0,0,-,motif-rack xs ,Granada,2022/08/27,2022/10/26,2022/09/01,243,799
+0,0,0,1,300,0,0,0,0,dreadbox,dreadbox nyx ,Lugo,2022/05/24,2022/09/05,2022/09/01,745,1382
+0,1,0,0,0,0,0,0,0,sensel,sensel morph ,Alicante,2022/07/27,2022/09/25,2022/09/01,162,506
+0,0,0,1,30,0,0,0,0,studio,faltar studio 880 sl ,Bizkaia,2022/08/11,2022/10/10,2022/09/01,324,870
+0,0,0,1,699,0,0,0,0,korg,sintetizador monofónico korg ms-10 de los 70`s ,Madrid,2022/01/02,2022/09/04,2022/09/01,1792,888
+0,0,0,1,120,0,0,0,0,-,electrofaustus blackfly + mooer reecho ,Barcelona,2022/07/21,2022/09/19,2022/09/01,338,1080
+0,0,0,1,550,0,0,0,0,korg,korg karma ,Alicante,2021/06/09,2022/09/30,2022/09/01,3117,838
+0,1,0,0,0,0,0,0,0,moog,moog moogerfooger control processor cp-251 ,Valencia,2022/05/15,2022/09/28,2022/09/01,190,1106
+0,1,0,0,0,0,0,0,0,kurzweil,kurzweil k2600 76 teclas ,Ourense,2022/06/29,2022/09/09,2022/09/01,392,763
+0,0,0,1,150,0,0,0,0,eurorack,proyecto eurorack inacabado 6u 84hp ,Toledo,2022/07/19,2022/09/17,2022/09/01,352,360
+0,0,0,1,150,0,0,0,0,micro,maschine micro mk3 ,Madrid,2022/09/01,2022/10/31,2022/09/01,20,402
+0,0,0,1,450,0,0,0,0,kurzweil,kurzweil pc1x ,Málaga,2022/08/29,2022/10/28,2022/09/01,120,1063
+0,0,0,1,6000,0,0,0,0,hammond,hammond a100 con leslie 760 ,Zaragoza,2020/11/03,2022/09/21,2022/09/01,4242,859
+0,0,0,1,850,0,0,0,0,mpc,akai mpc live 2 ,A Coruña,2020/11/03,2022/10/20,2022/09/01,200,1061
+0,0,0,1,2500,0,0,0,0,hammond,hammond skx ,Valencia,2022/09/01,2022/10/31,2022/09/01,110,1078
+0,0,0,1,150,0,0,0,0,casio,casio ct6000 rebaja ,Cádiz,2022/04/28,2022/10/01,2022/09/01,1078,539
+0,0,0,1,1390,0,0,0,0,eurorack,filtro estereo eurorack cwejman dmf-2 ,Madrid,2022/03/16,2022/10/27,2022/09/01,578,560
+0,0,0,1,3200,0,0,0,0,waldorf,waldorf quantum ,Madrid,2021/12/18,2022/09/30,2022/09/01,3751,943
+0,0,0,1,600,0,0,0,0,roland,roland tr-727 ,Sevilla,2021/05/02,2022/09/12,2022/09/01,2081,651
+0,0,0,1,190,0,0,0,0,midi,midi fighter 3d ,Ciudad Real,2021/08/18,2022/09/03,2022/09/01,819,538
+0,0,0,1,900,0,0,0,0,elektron,elektron analog keys ,Madrid,2022/07/29,2022/09/25,2022/09/01,333,1261
+0,0,0,1,45,0,0,0,0,arturia,arturia microlab ,Gipuzkoa,2022/06/23,2022/09/18,2022/09/01,291,872
+0,0,0,1,700,0,0,0,0,roland,roland mc707 ,Sevilla,2022/08/27,2022/10/26,2022/09/01,128,512
+0,0,0,1,950,0,0,0,0,korg,órgano korg cx-3 + flightcase a medida ,Madrid,2022/04/03,2022/10/14,2022/09/01,692,869
+0,0,1,0,500,0,0,0,0,atomo,perceptron atomo synth semimodular tambien ,Madrid,2020/09/21,2022/09/26,2022/09/01,3965,845
+0,0,0,1,90,0,0,0,0,-,mm micromust ,Girona,2021/07/22,2022/10/30,2022/09/01,765,637
+0,0,0,1,339,0,0,0,0,uno,uno synth pro desktop + accesorios ,Girona,2022/05/18,2022/09/30,2022/09/01,516,637
+0,0,0,1,200,0,0,0,0,roland,roland a6 ,Barcelona,2022/08/03,2022/09/28,2022/09/01,564,1188
+0,0,1,0,0,0,1,0,0,-,alguno de estos sintes y caja de ritmo ,Girona,2022/04/10,2022/10/30,2022/09/01,2592,637
+0,0,0,1,2000,0,0,0,0,roland,roland sh 101 ,Girona,2021/10/20,2022/10/30,2022/09/01,1455,637
+0,0,0,1,2200,0,0,0,0,korg,korg pa4x 61 ,Navarra,2022/07/28,2022/09/26,2022/09/01,340,603
+0,0,0,1,20,0,0,0,0,korg,diskette sonidos para el sampler korg dsm1 ,Madrid,2022/07/07,2022/09/21,2022/09/01,206,1106
+0,0,0,1,60,0,0,0,0,roland,roland pn gr 50 01 ,Girona,2022/03/23,2022/09/25,2022/09/01,416,637
+0,0,0,1,390,0,0,0,0,korg,korg triton le ,Girona,2021/10/28,2022/10/30,2022/09/01,1286,637
+0,0,0,1,22,0,0,0,0,roland,sonidos roland jupiter x xm series y zenology pro software ,Pontevedra,2022/07/15,2022/09/26,2022/09/01,415,256
+0,0,0,1,2300,0,0,0,0,nord stage ,2 ha 88 ,Palencia,2021/03/13,2022/09/27,2022/09/01,3060,736
+0,0,0,1,1,0,0,0,0,-,basimilus iteritas alter + entity ultra kick ,Málaga,2022/08/28,2022/10/27,2022/09/01,138,560
+0,0,0,1,95,0,0,0,0,ultimate,ultimate ax 48 pro b ,Girona,2022/04/26,2022/10/30,2022/09/01,396,637
+0,0,0,1,950,0,0,0,0,roland,roland fa 08 ,Valencia,2022/08/18,2022/09/25,2022/09/01,214,1149
+0,0,0,1,389,0,0,0,0,audio,tip top audio circadian rhythm ,Girona,2022/06/01,2022/09/30,2022/09/01,310,637
+0,0,0,1,220,0,0,0,0,mutant,módulos mutant hihats & mutant bassdrum ,Navarra,2021/02/21,2022/09/20,2022/09/01,861,614
+0,0,0,1,349,0,0,0,0,doepfer,doepfer a100lc9 ,Girona,2021/09/17,2022/09/18,2022/09/01,536,637
+0,0,0,1,570,0,0,0,0,yamaha,grand piano yamaha dgx 650 ,Barcelona,2021/12/08,2022/09/27,2022/09/01,967,1092
+0,0,0,1,49,0,0,0,0,-,stand digitakt + digitone ultima unidad env incl ,Cádiz,2019/06/11,2022/09/28,2022/09/01,3990,481
+0,0,0,1,150,0,0,0,0,roland,kenton pro dcb para roland juno 60 y algunos jupiter 8 ,Araba,2022/05/26,2022/10/25,2022/09/01,302,660
+0,0,0,1,128,0,0,0,0,befaco,befaco joystick ,Girona,2022/03/02,2022/10/29,2022/09/01,615,637
+0,0,0,1,235,0,0,0,0,befaco,befaco rampage ,Girona,2021/10/01,2022/09/25,2022/09/01,447,637
+0,0,0,1,150,0,0,0,0,audio,m audio oxygen pro 49 ,Cantabria,2022/09/01,2022/10/31,2022/09/01,38,840
+0,0,0,1,4,0,0,0,0,eurorack,módulos eurorack + cables y accesorios ,Asturias,2022/05/09,2022/09/25,2022/09/01,1541,621
+0,0,0,1,479,0,0,0,0,komplete,komplete mkii s49 ,Alicante,2022/05/29,2022/10/09,2022/09/01,331,2160
+0,0,0,1,199,0,0,0,0,alesis,keytar inalámbrico alesis ,Cuenca,2022/07/14,2022/09/12,2022/09/01,260,485
+0,0,0,1,295,0,0,0,0,yamaha,yamaha dx9 ,Girona,2022/03/15,2022/09/22,2022/09/01,955,637
+0,0,0,1,20,0,0,0,0,korg,cassette datos para korg dw6000 ,Madrid,2022/07/07,2022/09/18,2022/09/01,208,1106
+0,0,0,1,530,0,0,0,0,-,digitone impecable ,Sevilla,2022/06/08,2022/09/30,2022/09/01,613,969
+0,0,0,1,80,0,0,0,0,make noise ,eurorack rasie ,Madrid,2022/08/25,2022/09/28,2022/09/01,148,869
+1,0,0,1,300,0,0,0,0,4ms,4ms stereo triggered sampler ,Barcelona,2022/08/11,2022/10/09,2022/09/01,124,408
+0,0,0,1,300,0,0,0,0,novation,novation ultranova ,Granada,2022/08/25,2022/10/22,2022/09/01,205,827
+0,0,1,0,0,0,0,0,0,akai,akai x7000 floppy usb & librería ,Tarragona,2022/08/25,2022/09/28,2022/09/01,226,1816
+0,0,0,1,1050,0,0,0,0,-,modulo sintetizador prophet 08 david smith ,Madrid,2022/08/11,2022/10/09,2022/09/01,360,476
+0,0,0,1,330,0,0,0,0,yamaha,tg 500 yamaha ,Barcelona,2022/07/21,2022/09/28,2022/09/01,444,588
+0,0,0,1,1300,0,0,0,0,nord rack nord lead ,3 - 3 en ,Alicante,2022/08/29,2022/10/28,2022/09/01,150,851
+0,0,0,1,12000,0,0,0,0,system,moog system 15 ,Barcelona,2020/10/03,2022/09/25,2022/09/01,5720,650
+0,0,0,1,249,0,0,0,0,befaco,befaco lich ,Girona,2021/12/15,2022/10/30,2022/09/01,555,637
+0,0,0,1,98,0,0,0,0,volca,korg volca kick ,Cantabria,2022/06/15,2022/10/01,2022/09/01,324,1090
+0,0,0,1,495,0,0,0,0,waldorf,waldorf microwave ii rack ,Sevilla,2022/06/10,2022/09/27,2022/09/01,600,279
+0,0,0,1,5500,0,0,0,0,rhodes,piano rhodes 88 mark ii eighty eight suitcase ,Madrid,2022/01/19,2022/09/22,2022/09/01,1726,580
+0,0,0,1,1550,0,0,0,0,roland,roland júpiter 80 + flight case a medida ,Toledo,2020/11/26,2022/10/22,2022/09/01,2056,650
+0,0,0,1,90,0,0,0,0,volca,colección volca casi completa + extras ,Lugo,2021/06/24,2022/09/27,2022/09/01,2909,851
+0,0,0,1,90,0,0,0,0,kawai,kawai card ram dc 16 ,Girona,2021/05/26,2022/09/26,2022/09/01,414,637
+0,0,0,1,75,0,0,0,0,bheringer,bheringer umx 61 ,Valencia,2021/03/04,2022/10/17,2022/09/01,1129,298
+0,0,0,1,333,0,0,0,0,yamaha,yamaha tx-7 ,Valencia,2022/08/18,2022/10/01,2022/09/01,366,1073
+0,0,0,1,375,0,0,0,0,roland,roland fantom xr ,Zaragoza,2022/06/11,2022/09/13,2022/09/01,446,183
+0,0,0,1,779,0,0,0,0,roland,roland mc 707 ,Girona,2022/02/17,2022/09/23,2022/09/01,774,637
+0,1,0,0,0,0,0,0,0,arturia,arturia keystep ,Sevilla,2022/08/30,2022/10/30,2022/09/01,70,413
+0,0,0,1,85,0,0,0,0,roland,roland pn d50 02 ,Girona,2021/05/26,2022/10/09,2022/09/01,474,637
+0,0,0,1,190,0,0,0,0,arturia,arturia beatstep pro ,Pontevedra,2022/08/11,2022/10/10,2022/09/01,110,637
+0,0,0,1,250,0,0,0,0,korg,korg microsampler ,Barcelona,2021/04/04,2022/09/25,2022/09/01,1143,1274
+0,0,0,1,1850,0,0,0,0,arturia,arturia polybrute ,Sevilla,2022/08/29,2022/10/28,2022/09/01,128,512
+0,0,0,1,375,0,0,0,0,system,eric synths pico system iii desktop ,Girona,2021/12/29,2022/10/30,2022/09/01,940,637
+0,0,0,1,179,0,0,0,0,yamaha,procesador de efectos yamaha emp-100 para guitarra bajo voces y teclados ,Zaragoza,2022/01/20,2022/10/01,2022/09/01,908,1569
+0,0,0,1,1350,0,0,0,0,korg,korg ms-20 ,Girona,2021/06/23,2022/10/08,2022/09/01,1013,637
+0,0,0,1,180,0,0,0,0,-,alm001 pamelas workout ,Madrid,2022/08/11,2022/09/28,2022/09/01,202,869
+0,0,0,1,80,0,0,0,0,akai,akai pro mpd 32 ,Barcelona,2022/07/04,2022/09/02,2022/09/01,284,387
+0,0,0,1,860,0,0,0,0,yamaha,yamaha moxf8 ,Navarra,2022/08/04,2022/10/05,2022/09/01,314,601
+0,0,0,1,450,0,0,0,0,yamaha,yamaha tenori-on ,Barcelona,2022/08/30,2022/10/29,2022/09/01,116,1065
+0,0,0,1,550,0,0,0,0,quasimidi,quasimidi sirius ,Valencia,2022/04/26,2022/10/19,2022/09/01,759,843
+0,0,0,1,50,0,0,0,0,-,organo lowrey genie tenie ,Madrid,2020/09/22,2022/10/29,2022/09/01,1444,1151
+0,0,0,1,300,0,0,0,0,komplete,teclado controlador ni komplete kontrol mk3 49 ,Valencia,2022/07/10,2022/09/08,2022/09/01,394,2271
+0,0,0,1,270,0,0,0,0,elka,teclado elka omb5 caja de ritmos+acompañamiento automático drumstar80 ,Madrid,2022/08/18,2022/09/26,2022/09/01,388,1057
+0,0,0,1,35,0,0,0,0,korg,korg m3 - librería para ni kontakt y reason ,Córdoba,2022/06/01,2022/09/18,2022/09/01,290,536
+1,0,0,1,550,0,0,0,0,virus,access virus snow ,Madrid,2022/07/13,2022/09/11,2022/09/01,804,1342
+0,0,0,1,175,0,0,0,0,eurorack,diode operator station vcf eurorack ,Madrid,2022/08/31,2022/10/30,2022/09/01,94,560
+0,0,0,1,125,0,0,0,0,midi,motu midi timepiece ii ,Zaragoza,2022/03/08,2022/09/30,2022/09/01,1131,1569
+0,0,0,1,230,0,0,0,0,ajh,ajh synth dual contour black ,Girona,2021/09/17,2022/10/30,2022/09/01,577,637
+0,1,1,0,0,0,0,0,0,e-mu,e-mu orbit v3 ,Valencia,2022/08/11,2022/10/14,2022/09/01,140,725
+0,0,0,1,430,0,0,0,0,eurorack,eloquencer eurorack ,Madrid,2022/06/29,2022/09/11,2022/09/01,466,652
+0,0,0,1,550,0,0,0,0,akai,akai mpk 88 ,Alicante,2022/05/31,2022/10/09,2022/09/01,374,2160
+0,0,0,1,20,0,0,0,0,korg,cassette datos para korg poly800-ii ,Madrid,2022/07/07,2022/09/26,2022/09/01,204,1106
+0,0,0,1,4500,0,0,0,0,roland,sintetizador roland jupiter-4 compuphonic ,Castellón,2022/07/09,2022/09/07,2022/09/01,536,2327
+0,0,0,1,75,0,0,0,0,kurzweil,placa sampler smp-r para kurzweil k2000r ,Barcelona,2021/05/26,2022/09/28,2022/09/01,2104,1121
+0,0,0,1,2900,0,0,0,0,-,ob-06 con sonidos de pago ,Madrid,2022/07/28,2022/09/25,2022/09/01,604,943
+0,0,0,1,700,0,0,0,0,emu,emu e4x turbo - hollywood gold limited edition ,Alicante,2022/08/29,2022/10/28,2022/09/01,152,851
+0,0,0,1,60,0,0,0,0,midi,icon ikeyboard 5x - teclado midi ,Barcelona,2022/04/10,2022/10/07,2022/09/01,538,850
+0,0,1,0,0,0,0,0,0,roland,korg r3 y roland ju06a ,Barcelona,2022/08/25,2022/09/28,2022/09/01,278,1062
+0,0,0,1,90,0,0,0,0,dreadbox,dreadbox hysteria ,Granada,2022/02/14,2022/09/27,2022/09/01,494,853
+0,0,0,1,300,0,0,0,0,-,studiologic numacompact 2 ,Madrid,2022/08/30,2022/10/29,2022/09/01,128,728
+0,0,0,1,1150,0,0,0,0,the,soma lyra 8 limited edition the pacifist ,Girona,2021/07/12,2022/10/30,2022/09/01,488,637
+0,0,0,1,400,0,0,0,0,analogue systems ,secuenciador rs-200 y quantiser rs-260 ,Barcelona,2020/07/25,2022/09/29,2022/09/01,1668,1287
+0,0,0,1,50,0,0,0,0,doepfer,doepfer a 130 2 dual vca ,Pontevedra,2022/08/31,2022/10/30,2022/09/01,56,964
+0,0,0,1,460,0,0,0,0,alesis,alesis ion ,Alicante,2022/08/18,2022/10/01,2022/09/01,276,850
+0,0,0,1,500,0,0,0,0,instruments,star instruments synare 3 ,Baleares,2022/08/11,2022/10/13,2022/09/01,148,596
+0,0,0,1,100,0,0,0,0,yamaha,yamaha psr-f51 ,Asturias,2022/07/31,2022/09/29,2022/09/01,323,288
+0,0,0,1,900,0,0,0,0,korg,korg polysix ,Barcelona,2022/07/15,2022/09/13,2022/09/01,594,1196
+0,0,0,1,90,0,0,0,0,volca,korg volca fm ,Barcelona,2022/08/26,2022/10/25,2022/09/01,100,728
+0,0,0,1,100,0,0,0,0,noise,noise engeneering viol ruina ,Barcelona,2022/08/18,2022/09/28,2022/09/01,142,612
+0,0,0,1,4250,0,0,0,0,korg,korg trident mk i ,Madrid,2022/04/20,2022/09/18,2022/09/01,944,2019
+0,0,0,1,110,0,0,0,0,-,maleta sintetizador 61 ,Murcia,2022/05/28,2022/09/25,2022/09/01,341,433
+0,0,0,1,100,0,0,0,0,-,cacharros varios ,Valencia,2022/08/18,2022/09/28,2022/09/01,1146,498
+0,0,0,1,240,0,0,0,0,novation,novation circuit rythm ,Málaga,2022/08/25,2022/10/22,2022/09/01,184,398
+0,0,1,0,0,0,0,0,0,noise,noise engineering basimilus iteritas ,Barcelona,2021/12/04,2022/09/27,2022/09/01,1381,1031
+0,0,0,1,135,0,0,0,0,-,rebel technology chronos mkii ,Girona,2022/02/28,2022/09/05,2022/09/01,426,637
+0,0,0,1,100,0,0,0,0,-,hardcase con ruedas para teclado de 76 teclas ,Lugo,2022/01/05,2022/09/21,2022/09/01,607,1229
+0,0,0,1,5100,0,0,0,0,roland,roland jupiter 4 ,Barcelona,2022/01/22,2022/09/24,2022/09/01,3027,650
+0,1,0,0,0,0,0,0,0,korg,tarjeta korg wavestation wsc-3s synth & time slice ,Gipuzkoa,2020/10/11,2022/09/29,2022/09/01,731,1293
+0,0,0,1,2300,0,0,0,0,origin,arturia origin ,Valencia,2021/05/10,2022/10/19,2022/09/01,2018,843
+0,0,0,1,10,0,0,0,0,moog,funda cubrepolvo a la medida para moog prodigy ,Madrid,2022/07/17,2022/09/26,2022/09/01,334,1103
+0,0,0,1,250,0,0,0,0,novation,sintetizador teclado novation mininova ,Madrid,2022/08/29,2022/10/28,2022/09/01,92,650
+0,0,0,1,1750,0,0,0,0,sequential circuits ,pro-one ,Madrid,2022/07/04,2022/09/02,2022/09/01,466,377
+0,0,0,1,320,0,0,0,0,behringer,behringer ms 1 ,Cádiz,2022/07/09,2022/09/09,2022/09/01,869,719
+0,0,0,1,1500,0,0,0,0,yamaha,yamaha sk20 string machine ,Madrid,2021/12/23,2022/09/25,2022/09/01,1680,580
+0,0,0,1,400,0,0,0,0,uno,uno synth pro ,Granada,2021/11/07,2022/09/27,2022/09/01,1158,1047
+0,0,0,1,675,0,0,0,0,nord lead ,2x ,Navarra,2022/08/11,2022/09/29,2022/09/01,438,861
+0,0,0,1,6000,0,0,0,0,moog,moog one 8 ,León,2022/08/30,2022/10/29,2022/09/01,132,912
+0,0,0,1,1890,0,0,0,0,korg,mini korg 700 fs tambien cambios ,Girona,2022/05/11,2022/09/22,2022/09/01,696,637
+0,0,0,1,375,0,0,0,0,-,casiotone 701 ,Girona,2021/10/22,2022/09/27,2022/09/01,1047,637
+0,0,0,1,115,0,0,0,0,instruments,clon de mutable instruments frames ,Cádiz,2022/07/22,2022/10/01,2022/09/01,306,539
+0,0,0,1,300,0,0,0,0,-,piano electrico vertical thomann dp- 51 ,Barcelona,2022/07/13,2022/09/11,2022/09/01,262,504
+0,0,0,1,410,0,0,0,0,modular,eloquencer winter modular ,Sevilla,2022/08/04,2022/10/03,2022/09/01,224,300
+0,0,0,1,111111,0,0,0,0,-,material a la venta en moogchild synthdrome ,Madrid,2021/03/18,2022/09/18,2022/09/01,20160,2019
+0,0,0,1,1100,0,0,0,0,nord stage ,piano clavia rev c 88 teclas ,Girona,2022/08/18,2022/09/21,2022/09/01,402,1126
+0,0,0,1,180,0,0,0,0,decksaver,arturia drumbrute impact + decksaver ,León,2022/07/11,2022/09/09,2022/09/01,255,1031
+0,0,0,1,40,0,0,0,0,midi,teclado midi 61 teclas ,Murcia,2022/07/27,2022/09/25,2022/09/01,218,607
+0,0,0,1,140,0,0,0,0,4ms,4ms row power ,Tarragona,2022/03/12,2022/09/28,2022/09/01,473,554
+0,0,0,1,80,0,0,0,0,eurorack,audiothingies ced tuner afinador eurorack ,Madrid,2022/06/29,2022/09/11,2022/09/01,306,652
+0,0,0,1,600,0,0,0,0,yamaha,yamaha ex5 ,Cádiz,2022/04/18,2022/10/03,2022/09/01,647,901
+0,0,0,1,500,0,0,0,0,yamaha,yamaha mo6 ,Madrid,2022/08/18,2022/10/20,2022/09/01,202,413
+0,0,0,1,330,0,0,0,0,-,keylab 49 mk2 negro ,Madrid,2022/01/08,2022/09/28,2022/09/01,1112,943
+0,0,0,1,300,0,0,0,0,yamaha,yamaha rm1x ,Sevilla,2022/08/27,2022/10/27,2022/09/01,120,741
+0,0,0,1,50,0,0,0,0,korg,korg pa2x - pa 3x tarjeta ram 128mb - manual de operario korg pa2x ,Córdoba,2022/07/19,2022/09/17,2022/09/01,192,613
+0,0,0,1,825,0,0,0,0,-,leslie 760 n autónomo ,Zaragoza,2020/06/16,2022/09/24,2022/09/01,1912,859
+0,0,0,1,59,0,0,0,0,yamaha,yamaha vrc 106 data rom ,Girona,2021/06/30,2022/09/26,2022/09/01,354,637
+0,0,0,1,1969,0,0,0,0,korg,korg minikorg 700 fs - nuevo ,Girona,2022/05/27,2022/09/15,2022/09/01,524,637
+0,0,0,1,1250,0,0,0,0,yamaha,piano yamaha cpv-301 ,Barcelona,2022/08/30,2022/10/29,2022/09/01,90,501
+0,0,0,1,15,0,0,0,0,-,thomann keyboard bag 6 ,Barcelona,2021/11/21,2022/09/25,2022/09/01,974,761
+0,0,0,1,180,0,0,0,0,korg,secuenciador korg sq64 ,Granada,2022/08/31,2022/10/30,2022/09/01,170,723
+0,0,0,1,800,0,0,0,0,kawai,kawai vpc1 ,Sevilla,2022/06/01,2022/10/14,2022/09/01,481,510
+0,0,0,1,280,0,0,0,0,yamaha,yamaha kx-8 ,Barcelona,2022/04/25,2022/09/13,2022/09/01,1845,474
+0,0,0,1,145,0,0,0,0,modular,2 buses y fuente para modular la caja sale gratis ,Barcelona,2019/02/09,2022/09/09,2022/09/01,4528,1285
+0,0,0,1,480,0,0,0,0,electribe,electribe esx-1 sd ,Toledo,2022/08/18,2022/10/18,2022/09/01,124,707
+0,0,0,1,900,0,0,0,0,-,op-1 2021 segunda generación ,Murcia,2022/07/20,2022/09/18,2022/09/01,302,1434
+1,0,0,1,600,0,0,0,0,hammond,korg cx3 70's hammond ,Madrid,2022/07/31,2022/09/28,2022/09/01,514,886
+0,0,0,1,25,0,0,0,0,akai,akai lpd 8 ,Badajoz,2022/07/23,2022/09/21,2022/09/01,214,1075
+0,0,0,1,255,0,0,0,0,instruments,mutable instruments clouds ,Araba,2021/08/06,2022/09/29,2022/09/01,1295,481
+0,1,0,0,0,0,0,0,0,-,"sintetizadores antiguos averiados, no importa el estado ",Madrid,2019/10/07,2022/09/18,2022/09/01,2430,2019
+0,0,0,1,840,0,0,0,0,nord lead ,clavia a1 ,Málaga,2021/11/20,2022/09/23,2022/09/01,3737,1108
+0,0,0,1,349,0,0,0,0,novation,novation drum station v2 ,Girona,2022/02/01,2022/10/17,2022/09/01,882,637
+0,0,0,1,90,0,0,0,0,doepfer,doepfer a-199 spring reverb vintage edition ,Valencia,2022/07/29,2022/09/30,2022/09/01,340,1073
+0,0,0,1,225,0,0,0,0,arturia,arturia keylab essential 61 black ,Madrid,2021/10/17,2022/09/26,2022/09/01,1177,779
+0,0,0,1,165,0,0,0,0,roland,roland t-8 aira compact beat machine ,Alicante,2022/08/04,2022/10/07,2022/09/01,342,1096
+0,0,0,1,700,0,0,0,0,kawai,piano digital kawai ca-91 ,Barcelona,2022/08/27,2022/10/27,2022/09/01,119,1019
+0,0,0,1,550,0,0,0,0,kawai,piano digital kawai cn25 ,Alicante,2022/08/11,2022/10/13,2022/09/01,196,405
+0,0,0,1,0,0,0,0,0,eurorack,todos mis módulos eurorack ,Málaga,2021/11/13,2022/10/20,2022/09/01,5963,620
+0,0,0,1,95,0,0,0,0,doepfer,doepfer a-156 vintage edition ,Girona,2022/05/10,2022/09/25,2022/09/01,406,637
+0,0,0,1,400,0,0,0,0,vermona,vermona drm1 mk2 ,Barcelona,2022/08/31,2022/10/30,2022/09/01,76,537
+0,0,0,1,1169,0,0,0,0,roland,roland jupiter xm ,Girona,2022/05/10,2022/09/13,2022/09/01,838,637
+0,0,0,1,245,0,0,0,0,u-he,módulo u-he cvilazation ,Alicante,2022/07/19,2022/09/18,2022/09/01,338,506
+0,0,0,1,150,0,0,0,0,korg,korg 05r w – módulo sintetizador ,Madrid,2022/07/29,2022/09/25,2022/09/01,402,1261
+0,1,0,0,0,0,0,0,0,roland,tarjeta roland sr-jv80-15 ,Barcelona,2022/08/11,2022/10/13,2022/09/01,90,870
+0,0,0,1,12,0,0,0,0,yamaha,"phat analog iii para yamaha motif xs, motif xf, moxf, montage y modx ",Madrid,2020/01/13,2022/09/10,2022/09/01,1172,517
+0,0,0,1,220,0,0,0,0,yamaha,yamaha sy 55 ,Barcelona,2022/07/14,2022/09/12,2022/09/01,419,638
+0,0,0,1,65,0,0,0,0,doepfer,doepfer a-130-8 ,Asturias,2022/08/11,2022/10/30,2022/09/01,174,965
+0,0,0,1,200,0,0,0,0,roland,roland r8 caja de ritmos ,Girona,2022/06/08,2022/09/22,2022/09/01,600,637
+0,0,0,1,110,0,0,0,0,behringer,behringer 960 sequential controller ,Cádiz,2022/07/22,2022/10/01,2022/09/01,739,539
+0,0,0,1,1600,0,0,0,0,origin,arturia origin desktop en perfecto estado ,Lleida,2021/08/04,2022/09/02,2022/09/01,2257,1313
+0,0,0,1,580,0,0,0,0,virus,acces virus c ,Asturias,2022/06/11,2022/09/24,2022/09/01,1070,975
+0,1,0,0,0,0,0,0,0,komplete,komplete kontrol s61 mk2 vapor gray ,Sevilla,2022/08/31,2022/10/30,2022/09/01,76,1277
+0,0,0,1,550,0,0,0,0,roland,roland d50 d-50 sintetizador ,Madrid,2022/08/18,2022/09/30,2022/09/01,340,1151
+0,0,0,1,35,0,0,0,0,-,taburete de tambor acolchado ,Barcelona,2021/04/20,2022/09/24,2022/09/01,705,388
+1,1,0,0,0,0,0,0,0,korg,korg monopoly ,Baleares,2022/08/11,2022/10/07,2022/09/01,200,351
+0,0,0,1,200,0,0,0,0,yamaha,yamaha cs1x ,A Coruña,2022/04/17,2022/09/30,2022/09/01,775,1091
+0,1,0,0,0,0,0,0,0,pearl,módulos de percusión pearl sc 20 - sc 40 o drum x ,Valencia,2022/03/06,2022/10/22,2022/09/01,338,1176
+0,0,0,1,489,0,0,0,0,arturia,arturia minibrute 2 noir ,Girona,2022/05/27,2022/09/25,2022/09/01,870,637
+0,0,0,1,60,0,0,0,0,korg,korg t3 - main board ,Barcelona,2022/08/28,2022/10/27,2022/09/01,76,1198
+0,0,0,1,6000,0,0,0,0,hammond,hammond b3 portable + leslie ,Madrid,2022/05/08,2022/09/05,2022/09/01,977,214
+0,0,0,1,169,0,0,0,0,befaco,befaco chopping kinky ,Girona,2021/06/21,2022/09/20,2022/09/01,414,637
+0,0,0,1,250,0,0,0,0,moog,moog theremini nuevo ,Valencia,2022/05/18,2022/09/13,2022/09/01,686,498
+0,0,0,1,90,0,0,0,0,instruments,mutable instruments midigal midipal ,Madrid,2022/08/18,2022/09/26,2022/09/01,200,1151
+0,0,0,1,89,0,0,0,0,erica synths ,pico trigger patern generator ,Girona,2021/02/17,2022/09/23,2022/09/01,732,637
+0,0,0,1,160,0,0,0,0,axoloty,axoloty completo ,Barcelona,2022/05/15,2022/10/19,2022/09/01,368,677
+0,0,0,1,70,0,0,0,0,roland,tarjetas roland sr-jv80 para sintetizadores jv_xv_xp ,Madrid,2020/08/28,2022/09/30,2022/09/01,3138,484
+0,0,0,1,2099,0,0,0,0,modular,bastl instruments rumburack 2 sintetizador modular nuevo ,Madrid,2021/10/29,2022/09/30,2022/09/01,2162,961
+0,0,0,1,200,0,0,0,0,-,intellijel rubicon ,Girona,2022/03/18,2022/09/20,2022/09/01,516,637
+0,0,0,1,160,0,0,0,0,behringer,behringer crave ,Barcelona,2022/08/25,2022/09/28,2022/09/01,240,1104
+0,0,0,1,19,0,0,0,0,yamaha,"c7 1 pianos para yamaha motif xf, moxf, montage y modx ",Madrid,2020/10/11,2022/09/13,2022/09/01,2501,517
+0,0,0,1,1100,0,0,0,0,elektron,elektron analog four mkii ,Girona,2021/10/25,2022/09/27,2022/09/01,848,637
+0,0,0,1,750,0,0,0,0,roland,roland jx3p ,Huelva,2022/08/25,2022/10/23,2022/09/01,206,383
+0,0,0,1,1500,0,0,0,0,yamaha,yamaha motif xf x maleta ,Valencia,2022/05/19,2022/09/30,2022/09/01,749,554
+0,0,0,1,500,0,0,0,0,akai,akai mpc1000 jjos2 + 128 mb ,Barcelona,2022/08/11,2022/10/08,2022/09/01,276,709
+0,0,0,1,600,0,0,0,0,yamaha,sintetizador yamaha dx7s ,Madrid,2022/08/31,2022/10/30,2022/09/01,80,303
+0,0,0,1,349,0,0,0,0,-,yamana moxf6 ,Tarragona,2022/06/14,2022/10/01,2022/09/01,1004,421
+0,0,0,1,925,0,0,0,0,virus,virus ti ,Madrid,2022/08/25,2022/10/01,2022/09/01,216,962
+0,0,0,1,460,0,0,0,0,club,mfb dominion club como nuevo envío incluido ,Barcelona,2022/08/31,2022/10/30,2022/09/01,120,770
+0,0,0,1,245,0,0,0,0,-,k&m 18860 spider pro si ,La Rioja,2022/07/17,2022/09/15,2022/09/01,222,483
+0,0,0,1,150,0,0,0,0,peavey,amplificador para teclados peavey kb-100 ,Sevilla,2021/05/02,2022/09/12,2022/09/01,865,651
+0,0,0,1,670,0,0,0,0,-,analog four mki ,Huesca,2022/08/25,2022/10/23,2022/09/01,112,853
+0,0,0,1,130,0,0,0,0,intellijel ,umidi 1u ,Tarragona,2022/03/12,2022/09/28,2022/09/01,711,554
+0,0,0,1,25,0,0,0,0,-,[eurorack] amplificador auriculares haunted pliers destino 3hp diy ,Madrid,2021/06/07,2022/09/30,2022/09/01,571,488
+0,0,0,1,60,0,0,0,0,odyssey,stardust synth cover para korg arp odyssey mini ,Cantabria,2022/07/22,2022/10/01,2022/09/01,199,504
+0,0,0,1,350,0,0,0,0,midi,the orb secuenciador midi y cv gate ,Madrid,2022/07/23,2022/09/21,2022/09/01,544,1194
+0,0,0,1,175,0,0,0,0,paratek,paratek neon black ,Girona,2022/05/06,2022/09/25,2022/09/01,320,637
+0,0,0,1,300,0,0,0,0,mpc,akai mpc renaissance ,Valencia,2022/08/11,2022/10/01,2022/09/01,410,544
+0,0,0,1,880,0,0,0,0,mpc,mpc live 2 ,Madrid,2022/07/01,2022/09/07,2022/09/01,560,994
+0,0,0,1,110,0,0,0,0,casio,teclado casio 501 ,Barcelona,2022/08/18,2022/10/16,2022/09/01,198,1278
+0,0,0,1,150,0,0,0,0,arturia,sintetizador analógico arturia microbrute ,Madrid,2022/08/25,2022/09/29,2022/09/01,151,619
+0,0,0,1,1100,0,0,0,0,roland,"roland jd xa ""reestreno"" ",Barcelona,2022/05/17,2022/10/30,2022/09/01,1034,859
+0,0,0,1,200,0,0,0,0,mutable,modulos eurorack - mutable ,Barcelona,2020/10/05,2022/09/15,2022/09/01,2848,994
+0,0,0,1,399,0,0,0,0,roland,roland mc 505 groovebox no cambios ,Sevilla,2022/06/08,2022/09/30,2022/09/01,295,969
+0,0,0,1,70,0,0,0,0,maschine,"mpc stuff live, mpd, mpk, force, maschine ",Asturias,2022/08/26,2022/10/25,2022/09/01,150,975
+0,0,0,1,195,0,0,0,0,noise,modulo eurorack corsynth c105e vc noise lo-fi maquine ,Madrid,2020/09/12,2022/10/27,2022/09/01,586,560
+0,0,0,1,60,0,0,0,0,behringer,behringer 914 fixed filter bank ,Pontevedra,2022/08/27,2022/10/26,2022/09/01,132,964
+0,0,0,1,239,0,0,0,0,qu,qu bit pulsar ,Girona,2021/05/27,2022/10/08,2022/09/01,545,637
+0,0,0,1,1800,0,0,0,0,-,soma pulsar 23 ,Madrid,2022/08/25,2022/09/30,2022/09/01,266,869
+0,0,0,1,329,0,0,0,0,roland,roland enhancia neova 3 unidades disponibles ,Girona,2021/11/18,2022/10/30,2022/09/01,620,637
+1,0,0,1,850,0,0,0,0,elektron,elektron rytm mki ,Barcelona,2022/07/27,2022/09/25,2022/09/01,450,507
+0,0,1,0,0,0,0,0,0,virus,access virus ti polar ,Barcelona,2022/08/11,2022/09/29,2022/09/01,424,1404
+0,0,0,1,299,0,0,0,0,akai,akai timbre wolf -envio incluido- ,Asturias,2022/08/28,2022/10/28,2022/09/01,114,1503
+0,0,0,1,1200,0,0,0,0,korg,korg vocoder vc10 ,Madrid,2019/12/10,2022/10/22,2022/09/01,1550,1096
+0,0,0,1,220,0,0,0,0,eurorack,mutable instruments beads modulo eurorack ,Granada,2022/07/15,2022/09/13,2022/09/01,459,687
+0,0,0,1,150,0,0,0,0,casio,teclado casio vintage sk-1 ,Girona,2022/02/12,2022/09/08,2022/09/01,788,1028
+0,0,0,1,65,0,0,0,0,behringer,behringer modamp module 1005 ,Asturias,2022/08/11,2022/09/24,2022/09/01,190,965
+0,0,0,1,1650,0,0,0,0,-,sequential prophet rev2-8 ,Almería,2022/07/24,2022/10/01,2022/09/01,817,384
+0,0,0,1,60,0,0,0,0,kawai,"lote de manuales emu, korg, roland, kawai ",A Coruña,2022/05/11,2022/09/30,2022/09/01,505,1091
+0,0,0,1,99,0,0,0,0,eurorack,doepfer a-100 lc1 case eurorack ,Madrid,2022/08/01,2022/10/01,2022/09/01,345,1279
+0,0,0,1,150,0,0,0,0,-,ni kore 2 ,Madrid,2022/07/12,2022/10/01,2022/09/01,432,1419
+0,0,0,1,90,0,0,0,0,mxr,mxr analog chorus ,Málaga,2022/05/17,2022/10/04,2022/09/01,241,940
+0,0,0,1,475,0,0,0,0,moog,moog vx 351 ,Girona,2021/07/09,2022/09/13,2022/09/01,774,637
+0,0,0,1,390,0,0,0,0,-,piano digital ,Tarragona,2022/08/18,2022/10/15,2022/09/01,170,767
+0,0,0,1,200,0,0,0,0,befaco,módulo befaco rampage ,La Rioja,2022/08/18,2022/10/25,2022/09/01,92,745
+0,0,0,1,850,0,0,0,0,-,leslie 815 proline ,Zaragoza,2020/11/06,2022/09/21,2022/09/01,1624,859
+0,0,0,1,309,0,0,0,0,roland,roland tr 08 ,Girona,2022/05/09,2022/09/25,2022/09/01,533,637
+0,0,0,1,1900,0,0,0,0,-,montage 6 ¡¡ sin desembalar !! ,Cantabria,2022/08/02,2022/09/26,2022/09/01,566,751
+0,0,0,1,370,0,0,0,0,korg,korg minilogue xd module ,Pontevedra,2022/07/07,2022/09/30,2022/09/01,1009,1193
+0,1,0,0,0,0,0,0,0,roland,roland mc 505 averiada ,Alicante,2022/04/18,2022/10/01,2022/09/01,369,850
+0,0,0,1,500,0,0,0,0,kurzweil,kurzweil pc3 le7 ,Barcelona,2022/08/25,2022/10/23,2022/09/01,227,892
+0,0,0,1,49,0,0,0,0,-,ladik q 010 easy quantizer ,Girona,2022/03/25,2022/10/08,2022/09/01,711,637
+0,0,0,1,180,0,0,0,0,yamaha,yamaha v50 ,Cádiz,2022/09/01,2022/10/31,2022/09/01,96,522
+0,0,0,0,12,1,0,0,0,-,galactic ascensión para modx y montage + ,Madrid,2020/05/29,2022/09/10,2022/09/01,1573,517
+0,0,0,1,1800,0,0,0,0,oberheim,oberheim ob-5 ,Tarragona,2022/08/28,2022/10/27,2022/09/01,220,740
+0,0,0,1,20,0,0,0,0,korg,cassette datos para el korg dw8000 ,Madrid,2022/07/07,2022/09/26,2022/09/01,186,1106
+0,0,0,1,1400,0,0,0,0,korg,korg sv-1 88 teclas ,Madrid,2022/05/03,2022/09/07,2022/09/01,530,550
+0,0,0,1,1450,0,0,0,0,eurorack,oscilador doble eurorack cwejman vco-2rm ,Madrid,2022/03/16,2022/10/27,2022/09/01,370,560
+0,0,0,1,75,0,0,0,0,yamaha,piano eléctrico yamaha ypt-200 ,Cantabria,2022/05/25,2022/09/24,2022/09/01,390,945
+0,0,0,1,330,0,0,0,0,roland,roland jv 1080 ,Valencia,2022/08/18,2022/09/28,2022/09/01,328,498
+0,0,0,1,329,0,0,0,0,-,mode maschines xoxbox ,Girona,2021/12/16,2022/09/24,2022/09/01,540,637
+0,0,0,1,110,0,0,0,0,eurorack,mutable instruments grids modular - eurorack ,Madrid,2022/06/28,2022/10/31,2022/09/01,558,1194
+0,0,0,1,75,0,0,0,0,studio,korg nanokey studio ,Barcelona,2022/04/25,2022/09/13,2022/09/01,870,474
+0,0,0,1,1250,0,0,0,0,yamaha,teclado tyros3 yamaha en muy buenas condiciones ,Toledo,2021/02/02,2022/09/29,2022/09/01,1756,711
+0,0,0,1,65,0,0,0,0,dreadbox,eurorack dreadbox ataxia ,Zaragoza,2022/08/25,2022/09/27,2022/09/01,144,1704
+0,0,0,1,1800,0,0,0,0,roland,roland juno 106 ,Madrid,2022/08/27,2022/10/26,2022/09/01,322,1106
+0,0,0,1,320,0,0,0,0,roland,roland msq-700 secuenciador vintage ,Navarra,2022/08/27,2022/10/26,2022/09/01,170,802
+0,0,0,1,299,0,0,0,0,electribe,"electribe 2 sampler roja, impoluta con extras ",Valencia,2022/08/04,2022/10/05,2022/09/01,244,640
+0,0,0,1,485,0,0,0,0,yamaha,yamaha dx7 ii d ,Cantabria,2022/05/19,2022/10/01,2022/09/01,1209,1090
+0,0,0,1,24,0,0,0,0,yamaha,"royal 1 pianos para yamaha motif xs, motif xf, moxf y montage modx ",Madrid,2017/07/09,2022/09/10,2022/09/01,5597,517
+0,0,0,1,1850,0,0,0,0,-,amplificador 122 type classictone ,Zaragoza,2020/11/03,2022/09/24,2022/09/01,1371,859
+0,0,0,1,200,0,0,0,0,emu,modulo emu audity 2000 ,Barcelona,2022/06/10,2022/09/22,2022/09/01,865,1301
+0,0,0,1,530,0,0,0,0,-,modal cobalt8x ,Madrid,2022/08/27,2022/10/26,2022/09/01,146,613
+0,0,0,1,300,0,0,0,0,roland,roland sonic cell - tarjeta de sonido - envío incluido ,Alicante,2021/05/07,2022/09/23,2022/09/01,654,1153
+0,0,0,1,450,0,0,0,0,casio,casio cz 101 ,Valencia,2021/03/13,2022/09/30,2022/09/01,1966,637
+0,0,0,1,99,0,0,0,0,audio,addac 804 audio integrator ,Girona,2021/04/13,2022/10/30,2022/09/01,583,637
+0,0,0,1,85,0,0,0,0,roland,roland pn d50 00 ,Girona,2021/05/24,2022/09/26,2022/09/01,442,637
+0,0,0,1,450,0,0,0,0,-,soma lyra 8 white angel ,Cantabria,2022/08/04,2022/09/09,2022/09/01,578,844
+0,0,0,1,750,0,0,0,0,-,medeli akx10 ,Araba,2022/03/20,2022/09/29,2022/09/01,1219,635
+0,0,0,1,75,0,0,0,0,roland,tarjeta roland sr-jv80-01 pop ,Barcelona,2021/11/18,2022/09/12,2022/09/01,473,916
+0,0,0,1,550,0,0,0,0,nord modular ,g1+ midiman para el software de edicion por 550 euros ,A Coruña,2021/11/18,2022/10/13,2022/09/01,296,1620
+0,0,0,1,1200,0,0,0,0,yamaha,yamaha motif xf7 ,Cantabria,2022/08/02,2022/09/26,2022/09/01,358,751
+0,0,0,1,4000,0,0,0,0,kawai,piano kawai ,Barcelona,2022/07/04,2022/09/02,2022/09/01,256,639
+0,0,0,1,389,0,0,0,0,arturia,arturia keylab 61 mkii ,Girona,2022/06/01,2022/10/04,2022/09/01,442,637
+0,0,0,1,70,0,0,0,0,audio,tip top audio rs 909 ,Girona,2021/12/16,2022/10/30,2022/09/01,423,637
+0,0,1,0,400,0,0,0,0,korg,korg triton le tambien y cartuchocasio cz ,Valencia,2022/04/10,2022/09/09,2022/09/01,1529,1344
+0,0,0,1,198,0,0,0,0,erica synths ,bass drums ,Girona,2021/11/25,2022/10/08,2022/09/01,600,637
+0,0,0,1,3200,0,0,0,0,0,yamaha genos 2 0 + funda scc profesional ,Valladolid,2022/09/01,2022/10/31,2022/09/01,76,619
+0,0,0,1,50,0,0,0,0,noise,doepfer a 118 noise ,Girona,2021/10/08,2022/10/08,2022/09/01,423,637
+0,0,0,1,240,0,0,0,0,roland,roland mc-303 ,Valencia,2022/05/18,2022/09/19,2022/09/01,748,944
+0,0,0,1,340,0,0,0,0,-,bass station 2 ,Madrid,2022/08/25,2022/09/29,2022/09/01,158,962
+0,0,0,1,350,0,0,0,0,roland,soniccell roland ,Madrid,2019/12/13,2022/09/29,2022/09/01,679,708
+0,0,0,1,300,0,0,0,0,erica synths ,roland boutique tr-08 y pico vco2 ,Baleares,2022/07/08,2022/09/06,2022/09/01,327,533
+0,0,0,1,175,0,0,0,0,roland,teclado controlador roland a-800 pro ,Barcelona,2022/01/21,2022/09/12,2022/09/01,765,916
+0,0,0,1,3990,0,0,0,0,moog,moog minimoog voyager 50 anyversary edition ,Girona,2022/06/08,2022/10/08,2022/09/01,718,637
+1,0,1,0,0,0,0,0,0,eurorack,módulos eurorack ,Zaragoza,2022/08/25,2022/09/29,2022/09/01,212,1704
+0,0,0,1,1200,0,0,0,0,oberheim,sintetizador analógico oberheim matrix 6 ,Madrid,2022/07/25,2022/09/26,2022/09/01,762,1103
+0,0,0,1,519,0,0,0,0,roland,controlador midi roland a88 ivory feel ,Madrid,2022/05/21,2022/09/28,2022/09/01,802,565
+0,0,1,0,1700,0,0,0,0,hammond,2 o por hammond sk pro reservado ,Guadalajara,2022/08/25,2022/10/24,2022/09/01,144,1341
+0,0,0,1,450,0,0,0,0,elektron,elektron analog heat ,Tarragona,2022/08/31,2022/10/30,2022/09/01,104,487
+0,0,0,1,1449,0,0,0,0,arturia,arturia matrixbrute ,Girona,2021/07/08,2022/10/08,2022/09/01,1058,637
+0,0,0,1,250,0,0,0,0,korg,korg ms20 ic ,Valencia,2022/08/11,2022/10/10,2022/09/01,322,772
+0,0,0,1,2500,0,0,0,0,system,hammond xk-3 system ,A Coruña,2022/08/11,2022/09/26,2022/09/01,220,918
+0,0,0,1,30,0,0,0,0,-,dsi prophet 08 - librería para ni kontakt y reason ,Córdoba,2022/06/01,2022/09/18,2022/09/01,266,536
+0,0,1,0,0,0,0,0,0,virus,"virus ti soundbanks todos los bancos hasta la fecha "" ahora también con viper vst "" ",Alicante,2018/08/19,2022/09/10,2022/09/01,4157,651
+0,0,0,1,2495,0,0,0,0,roland,roland fantom 6 ,Girona,2022/04/28,2022/10/30,2022/09/01,1015,637
+0,0,0,1,550,0,0,0,0,elektron,elektron digitackt ,Valencia,2022/08/11,2022/10/14,2022/09/01,272,725
+0,0,0,1,199,0,0,0,0,e-mu,proteus 2 e-mu systems 16 bit multi-timbral digital sound module xr ,Cuenca,2021/01/18,2022/09/05,2022/09/01,1696,653
+0,0,0,1,295,0,0,0,0,korg,korg t3 workstation ,Girona,2022/05/10,2022/10/30,2022/09/01,580,637
+0,0,0,1,220,0,0,0,0,instruments,eurorack case de aluminio 3 filas 85hp + yarns mutable instruments ,Madrid,2022/04/18,2022/09/16,2022/09/01,754,1587
+0,0,1,0,750,0,0,0,0,nord electro ,2 quizás tb ,A Coruña,2022/04/18,2022/10/01,2022/09/01,286,1364
+0,0,0,1,12,0,0,0,0,-,lote 10 revistas keyboard musica y tecnología ,Tarragona,2022/07/11,2022/09/09,2022/09/01,207,616
+0,0,0,1,20,0,0,0,0,eurorack,banananuts pack befaco eurorack ,Barcelona,2022/07/21,2022/09/19,2022/09/01,228,1576
+0,0,0,1,180,0,0,0,0,arturia,arturia drumbrute impact ,Valencia,2022/07/27,2022/09/25,2022/09/01,474,729
+0,0,0,1,750,0,0,0,0,yamaha,yamaha psr-s770 ,Madrid,2022/08/30,2022/10/29,2022/09/01,92,728
+0,0,0,1,180,0,0,0,0,-,sequenz standard-m-sv medium ,Girona,2021/12/22,2022/10/30,2022/09/01,504,637
+0,0,0,1,5,0,0,0,1,novation,"teclas y para roland, korg, yamaha, novation update 11 2 2022 ",Lugo,2015/03/03,2022/09/24,2022/09/01,17048,1229
+0,0,0,1,100,0,0,0,0,volca,korg volca keys ,Málaga,2022/07/13,2022/10/01,2022/09/01,402,2335
+0,0,0,1,1,0,0,0,0,elektron,packs de sonidos para máquinas elektron ,Córdoba,2022/06/01,2022/09/29,2022/09/01,678,536
+0,0,0,1,1490,0,0,0,0,-,ferrofish a32 ad da converter ,Girona,2020/11/13,2022/09/30,2022/09/01,1954,637
+0,0,0,1,1800,0,0,0,0,yamaha,yamaha motif xs8 ,Araba,2019/09/23,2022/09/29,2022/09/01,2332,635
+0,0,0,1,45,0,0,0,0,-,tarjeta smart media 128mb mas adaptador ,Madrid,2020/09/01,2022/09/26,2022/09/01,1534,752
+0,0,0,1,145,0,0,0,0,roland,módulo pianos roland p-330 ,Madrid,2021/10/09,2022/09/26,2022/09/01,978,779
+0,0,0,1,100,0,0,0,0,-,soporte para teclado ,Madrid,2022/08/18,2022/10/19,2022/09/01,218,612
+0,0,0,1,490,0,0,0,0,alm busy ,akemie castle - circuits ,Cádiz,2022/06/10,2022/09/09,2022/09/01,474,719
+0,0,0,1,650,0,0,0,0,micro,waldorf micro q keyboard ,A Coruña,2022/04/16,2022/09/30,2022/09/01,958,1091
+0,0,0,1,600,0,0,0,0,kurzweil,kurzweil pc3 le8 ,Madrid,2021/05/16,2022/09/13,2022/09/01,1308,867
+0,0,0,1,90,0,0,0,0,doepfer,doepfer a-142-2 vca dual con adsr y ducking ,Zaragoza,2022/08/25,2022/09/29,2022/09/01,136,1704
+0,0,0,1,150,0,0,0,0,-,groovebox mc 303 ,Madrid,2022/07/29,2022/09/14,2022/09/01,366,1261
+0,0,0,1,150,0,0,0,0,arturia,arturia beat step pro ,Barcelona,2022/08/31,2022/10/30,2022/09/01,62,537
+0,1,0,0,0,0,0,0,0,-,proteus 2000 máximo 200€ ,Madrid,2022/07/17,2022/09/24,2022/09/01,422,1451
+0,1,0,0,0,0,0,0,0,arturia,arturia microbrute ,Córdoba,2022/08/18,2022/10/18,2022/09/01,80,648
+0,0,0,1,490,0,0,0,0,odyssey,korg arp odyssey ,Girona,2021/11/12,2022/10/08,2022/09/01,1096,637
+0,0,0,1,250,0,0,0,0,akai,akai s3000xl ,Almería,2022/07/01,2022/10/01,2022/09/01,968,384
