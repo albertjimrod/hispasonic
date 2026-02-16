@@ -57,7 +57,8 @@ hispasonic/
 │   └── processed/                       # Unified dataset (gitignored)
 ├── notebooks/
 │   ├── 01_etl.ipynb                     # ETL — load, normalize, unify all CSVs
-│   └── 02_eda.ipynb                     # EDA — temporal, price, brand, city analysis
+│   ├── 02_eda.ipynb                     # EDA — temporal, price, brand, city analysis
+│   └── 03_supply_demand.ipynb           # Supply & demand analysis by city and price
 ├── reports/
 │   └── figures/                         # Auto-generated charts from EDA
 ├── requirements.txt
