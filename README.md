@@ -115,22 +115,30 @@ Scrape dates:   12
 | Column | Type | Description |
 |---|---|---|
 | `urgent` | Int64 (0/1) | Listing marked as urgent |
-| `buy` | Int64 (0/1) | Active buy request |
+| `buy` | Int64 (0/1) | Active buy request (demand signal) |
 | `change` | Int64 (0/1) | Swap/trade offer |
-| `sell` | Int64 (0/1) | Item for sale (supply) |
-| `price` | float64 | Asking price in euros |
+| `sell` | Int64 (0/1) | Item for sale (supply signal) |
+| `price` | float64 | Asking price in euros (0 = free or price on request) |
 | `gift` | Int64 (0/1) | Free item |
-| `search` | Int64 (0/1) | Wanted/search listing (demand) |
+| `search` | Int64 (0/1) | Wanted/search listing (demand signal) |
 | `repair` | Int64 (0/1) | Repair service listing |
 | `parts` | Int64 (0/1) | Spare parts listing |
-| `synt_brand` | object | Brand name (249 unique values) |
+| `synt_brand` | object | Extracted brand name (249 unique values; `"-"` = unidentified) |
 | `description` | object | Free-text listing description |
 | `city` | object | City of the listing (49 unique values) |
 | `published` | datetime | Original listing publication date |
 | `expire` | datetime | Listing expiry date |
-| `date_scrapped` | datetime | Date the listing was captured |
-| `seen` | Int64 | Total views on the listing |
-| `source_file` | object | Source CSV filename |
+| `date_scrapped` | datetime | Date the listing was captured by the scraper |
+| `seen` | Int64 | Total views accumulated by the listing |
+| `source_file` | object | Source CSV filename (traceability) |
+
+### Key data quality notes
+
+- **2,059 rows (34.5%) are duplicates** by composite key — expected and intentional. They reflect listings that were still active when a later scrape ran and carry temporal information required by the supply/demand analysis in notebook 03.
+- **3 null values** in `description` only; all other 16 columns are 100% complete.
+- **Zeros in `price`** are legitimate (free items, gift listings, or "price on request") — do not treat as missing.
+- The **2022-08-30 session** has a broken brand-extraction: all 760 listings are classified as `synt_brand = "-"`. Confirmed and documented in notebook 02.
+- Three sessions (**2022-12-31, 2023-03-01, 2023-06-04**) have price recorded as 0 for all sell listings — a scraping artefact confirmed in notebook 02. These sessions must be excluded from any price-based analysis.
 
 ---
 
