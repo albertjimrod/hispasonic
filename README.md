@@ -47,8 +47,30 @@ jupyter lab notebooks/03_supply_demand.ipynb
 ```
 
 > **Note:** `data/processed/` is gitignored. Run `01_etl.ipynb` first to generate `hispasonic_unified.csv` before running the other notebooks.
->
-> The environment file `jupyterlab_new.yaml` pins all dependencies (Python 3.9, pandas 2.2.3, scikit-learn 1.6.1, XGBoost 2.1.1, JupyterLab 4.4.4). A legacy `requirements.txt` is kept for reference but targets a Python 3.8 environment.
+
+---
+
+## Environment
+
+The project runs inside the `jupyterlab_new` conda environment (Python 3.9). All dependencies are pinned in `jupyterlab_new.yaml`.
+
+| Category | Package | Version |
+|----------|---------|---------|
+| Data | `pandas` | 2.2.3 |
+| Data | `numpy` | 2.0.1 |
+| Data | `pyarrow` | 21.0.0 |
+| Visualisation | `matplotlib` | 3.9.2 |
+| Visualisation | `seaborn` | 0.13.2 |
+| Visualisation | `altair` | 5.5.0 |
+| Statistics / ML | `scipy` | 1.13.1 |
+| Statistics / ML | `scikit-learn` | 1.6.1 |
+| Statistics / ML | `xgboost` | 2.1.1 |
+| Statistics / ML | `shap` | 0.49.1 |
+| Statistics / ML | `numba` | 0.60.0 |
+| Notebooks | `jupyterlab` | 4.4.4 |
+| Apps | `streamlit` | 1.50.0 |
+
+> A legacy `requirements.txt` (Python 3.8 environment) is kept for reference but is not the recommended setup.
 
 ---
 
