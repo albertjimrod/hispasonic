@@ -1,6 +1,6 @@
 # Hispasonic — Second-Hand Synthesiser Market Analysis
 
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
@@ -23,7 +23,8 @@ hispasonic/
 ├── reports/
 │   ├── figures/                         # 27 auto-generated charts
 │   └── README.md                        # Chart gallery
-├── requirements.txt
+├── jupyterlab_new.yaml                  # Conda environment (Python 3.9)
+├── requirements.txt                     # Legacy pip requirements (Python 3.8)
 └── README.md
 ```
 
@@ -35,15 +36,19 @@ hispasonic/
 git clone https://github.com/albertjimrod/hispasonic.git
 cd hispasonic
 
-pip install -r requirements.txt
+# Create and activate the conda environment
+conda env create -f jupyterlab_new.yaml
+conda activate jupyterlab_new
 
 # Run notebooks in order
-jupyter notebook notebooks/01_etl.ipynb
-jupyter notebook notebooks/02_eda.ipynb
-jupyter notebook notebooks/03_supply_demand.ipynb
+jupyter lab notebooks/01_etl.ipynb
+jupyter lab notebooks/02_eda.ipynb
+jupyter lab notebooks/03_supply_demand.ipynb
 ```
 
 > **Note:** `data/processed/` is gitignored. Run `01_etl.ipynb` first to generate `hispasonic_unified.csv` before running the other notebooks.
+>
+> The environment file `jupyterlab_new.yaml` pins all dependencies (Python 3.9, pandas 2.2.3, scikit-learn 1.6.1, XGBoost 2.1.1, JupyterLab 4.4.4). A legacy `requirements.txt` is kept for reference but targets a Python 3.8 environment.
 
 ---
 
@@ -364,11 +369,13 @@ Why only Valencia? It is the one city where three conditions coincide: sufficien
 
 | Category | Tools |
 |----------|-------|
-| Scraping | `requests`, `BeautifulSoup` |
-| Data | `pandas`, `numpy`, `SQLite` |
-| Visualisation | `matplotlib`, `seaborn` |
-| Statistics | `scipy.stats` |
-| Environment | `Jupyter Notebooks` |
+| Language | Python 3.9 |
+| Scraping | `requests`, `BeautifulSoup4` |
+| Data | `pandas 2.2`, `numpy 2.0`, `pyarrow` |
+| Visualisation | `matplotlib 3.9`, `seaborn 0.13`, `altair 5` |
+| Statistics / ML | `scipy.stats`, `scikit-learn 1.6`, `XGBoost 2.1`, `shap`, `numba` |
+| Environment | `JupyterLab 4.4`, `streamlit 1.50` |
+| Package manager | `conda` (`jupyterlab_new.yaml`) |
 
 ---
 
