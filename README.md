@@ -242,64 +242,99 @@ Determine whether a relationship exists between the supply/demand balance per ci
 | Total supply listings | 5,480 |
 | Total demand listings | 242 |
 | Global D/S ratio | **4.42%** |
+| Mean D/S ratio over time | **3.9%** |
 | HHI (market concentration) | **1,638** (moderately concentrated) |
 | Madrid + Barcelona volume share | **51.4%** |
 | Madrid + Barcelona HHI contribution | **82.6%** |
 | Fully visible cities (all thresholds met) | **5** of 15 |
+| Cities with significant lagged correlation | **1** of 28 (Valencia only) |
 
 ### Analysis steps
 
-#### 1. Supply and demand aggregation by city (Figs 19–22)
-Cities are aggregated by supply count, demand count and median price. A minimum of 5 supply listings is required to include a city. The D/S ratio is computed as `(demand / supply) × 100`.
+#### 1. Supply and demand by city — structural imbalance (Fig 19)
+Supply bars dominate demand in every single city. The demand signal is near-invisible at the chart scale. Four properties define the market structure:
+- Supply and demand are structurally imbalanced across the entire geography
+- Liquidity is concentrated in a few large hubs (Madrid, Barcelona)
+- In medium and small cities, active demand is essentially absent
+- The imbalance worsens proportionally as city volume decreases
 
-The **Visibility Threshold** classifies cities using three simultaneous criteria:
-- Market share > 2%
-- Total volume > 100 listings
-- Active demand > 10 listings
+#### 2. Market concentration — HHI and Pareto (Figs 19, inline charts)
+The **Herfindahl-Hirschman Index (HHI = 1,638)** classifies the market as *moderately concentrated* (DOJ/FTC range: 1,500–2,500):
+- **Madrid alone contributes 53.9%** of the HHI; Barcelona adds 28.6% — together 82.6%
+- Girona appears as an anomalous 3rd contributor (~8.1%), likely reflecting supply-only batch listings rather than organic activity
+- The remaining 12 cities collectively add only 9.3% — they are statistically irrelevant at national scale
 
-Only **5 cities pass all three filters**: Madrid, Barcelona, Valencia, Zaragoza and Alicante — representing 68% of total market volume.
+The **Pareto curve** confirms that **6 cities (40%) account for 80% of total volume**: Madrid, Barcelona, Girona, Valencia, Zaragoza and Alicante. The step from Madrid to Barcelona alone adds 21 percentage points — the steepest single step on the curve.
 
-The **Herfindahl-Hirschman Index (HHI = 1,638)** classifies the market as moderately concentrated. Madrid and Barcelona account for 82.6% of that concentration despite representing only 51.4% of volume, due to the squared weighting in the HHI formula.
+#### 3. Visibility threshold and market attractiveness score (inline charts)
+Cities are classified against three simultaneous criteria: market share > 2%, volume > 100 listings, active demand > 10 listings.
 
-The **Market Attractiveness Score** (weighted composite: 35% Volume + 25% HHI + 30% D/S Ratio + 10% Visibility) produces a 0–100 ranking:
-- No city reaches **HIGH** (≥80)
-- Madrid (79.2) and Barcelona (56.3) reach **MEDIUM**
-- All remaining 13 cities are **LOW**
+Only **5 cities pass all three filters**: Madrid, Barcelona, Valencia, Zaragoza and Alicante — representing **68% of total market volume**. Notable failure: **Girona** (3rd by volume, ~541 listings) is excluded because it has only 6 active demand listings. Its volume is supply-only activity — many sellers, almost no buyers.
 
-#### 2. Temporal evolution by city (Figs 23–24)
-Supply and demand are aggregated per city per scrape date. The five largest cities (Madrid, Barcelona, Girona, Valencia, Zaragoza) are tracked over time.
+The **Market Attractiveness Score** (35% Volume + 25% HHI weight + 30% D/S Ratio + 10% Visibility) ranks all 15 cities on a 0–100 scale:
 
-All cities show the same temporal pattern: peak supply in late 2022, sharp collapse in early 2023 (synchronous across all cities), partial recovery from mid-2023. **Girona** is an outlier: supply peaked at ~125 in late 2022 and then collapsed to near zero, never recovering. This produces an artefactual D/S ratio spike of 100% in July 2023 (zero supply + one demand listing = extreme ratio).
+| City | Score | Zone | Limiting factor |
+|------|-------|------|----------------|
+| Madrid | ~79.2 | MEDIUM | Low D/S ratio (3.49%) caps demand component |
+| Barcelona | ~56.3 | MEDIUM | Even lower D/S ratio (2.84%) |
+| Valencia | ~41 | LOW | Good D/S ratio but insufficient volume |
+| Alicante | ~35 | LOW | Same profile as Valencia but smaller |
+| Baleares | ~33 | LOW | Best D/S ratio (11.36%) but tiny volume |
 
-#### 3. Global market evolution (Fig 25)
-At national level, supply halved from ~750 to ~250 listings in January 2023 and never fully recovered. The mean D/S ratio over the full period is **3.9%**. The price time series shows two anomalies caused by data sparsity in early 2023 (near-zero median followed by a sharp recovery) — these are data quality artefacts, not genuine market events.
+No city reaches **HIGH (≥80)**. Madrid scores 79.2 — just below the threshold. The HIGH zone is structurally unreachable because no city simultaneously combines high volume, high HHI weight, D/S ratio > 10% and full visibility.
 
-#### 4. Cross-sectional hypothesis test (Fig 21)
+#### 4. D/S ratio ranking across cities (Fig 20)
+Every bar is blue — every city is a buyer's market. Three clusters emerge by ratio level:
+- **Cold (ratio < 3%):** Bizkaia (0.86%), Girona (1.12%), Barcelona (2.84%). Near-zero demand signal despite economic weight. Barcelona's large supply base dilutes its 28 demand listings to 2.84%.
+- **Warm (3–10%):** Madrid (3.49%), Valencia, Zaragoza, Sevilla, Alicante, Granada. Most of the market lives here.
+- **Above 10% — only Baleares (11.36%):** the single city closest to a seller's market; the only one above the 10% demand health threshold.
+
+High-ratio outliers (Ciudad Real 57%, La Rioja 38%, Gipuzkoa 36%) are **small-denominator artefacts**: a handful of demand listings over near-zero supply. They are not actionable.
+
+#### 5. Cross-sectional hypothesis test (Fig 21)
 Pearson correlation between D/S ratio and median price across cities:
-- **r = -0.291, p = 0.0529** — not statistically significant (borderline)
-- Direction is *negative* (counterintuitive): cities with higher relative demand tend to have *lower* prices
-- Explanation: cities with the highest D/S ratios (Ciudad Real, La Rioja, Gipuzkoa) are small markets trading low-value instruments. Price is determined by instrument type, not local supply/demand pressure.
+- **r = −0.291, p = 0.0529** — not statistically significant
+- Direction is *negative* (counterintuitive): cities with more relative demand tend to have *lower* prices
 
-#### 5. Temporal (lagged) hypothesis test (Fig 27)
-For each city with ≥4 scrape periods of non-zero data, Pearson correlation is computed between D/S ratio(t) and median price(t+1):
-- **Valencia: r = 0.819, p = 0.002** — the only statistically significant result
-- All other 27 cities: not significant (p > 0.05)
-- Valencia is the only market where the classic economic mechanism (ratio leading price) is empirically active
+Two explanations for the negative direction: (1) high-ratio cities are small markets trading cheap instruments — buyers seek affordable gear; (2) synthesiser prices are nationally referenced — local D/S ratio gives no pricing power because buyers can order from any city. **Local ratio analysis must be combined with brand/instrument-type data to understand price drivers.**
 
-#### 6. Passive demand proxy (Fig 26)
+#### 6. Dual-axis confirmation (Fig 22)
+**Bizkaia** is the most striking counterexample: lowest D/S ratio in the chart (0.86% — almost no buyers) yet one of the highest median prices (~€350). This makes the independence between local demand ratio and price visually undeniable. Price is driven by the composition of the local listing mix, not by local supply/demand dynamics.
+
+#### 7. Temporal evolution of supply and demand (Figs 23–24)
+Supply and demand are tracked per city across the 12 scrape dates. The demand line runs flat near zero for all cities throughout 2022–2024 — supply and demand never converge.
+
+- **The early-2023 supply collapse is the dominant temporal event.** Supply halved synchronously across all cities simultaneously in January 2023. This synchrony confirms it is a platform-wide event (scraping frequency change or platform restructuring), not a genuine market contraction.
+- **Girona's collapse:** supply peaked at ~125 in late 2022 then dropped to near zero after January 2023, never recovering. The resulting D/S ratio spike to 100% in July 2023 is a zero-denominator artefact (one demand listing against zero supply), not a real market event.
+- **Valencia** is the only city that consistently maintains a slightly elevated D/S ratio (5–13%) relative to the others, foreshadowing its significance in the lagged correlation analysis.
+
+#### 8. Global market evolution (Fig 25)
+At national level, supply halved from ~750 to ~250 listings in January 2023 and never recovered. The mean D/S ratio is 3.9% with no trend toward equilibrium. The price time series shows two sparsity artefacts in early 2023 (near-zero median, then a sharp recovery) — these are **data quality events, not real market movements**.
+
+#### 9. Passive demand proxy (Fig 26)
 Mean views per city vs median price:
-- **r = -0.003, p = 0.985** — essentially zero correlation
-- Views measure curiosity, not purchase intent. Cheap listings attract more views, creating an inverse pull that cancels any positive price signal.
+- **r = −0.003, p = 0.985** — essentially zero correlation
+- Cheap listings attract more views, pulling the aggregate against any positive price signal
+- Views reflect curiosity, not purchase intent; geographic distribution of viewers is unknown
+- `seen` may be useful as a **listing-level engagement indicator** but loses all predictive signal when aggregated by city
+
+#### 10. Lagged hypothesis test (Fig 27)
+For each city with ≥4 scrape periods of non-zero data (28 of 49 cities pass this filter), Pearson correlation is computed between D/S ratio(t) and median price(t+1):
+- **Valencia: r = 0.819, p = 0.002** — the only statistically significant result (robust: probability of observing r ≥ 0.819 by chance with n = 11 is 0.2%)
+- **All other 27 cities:** not significant (p > 0.05)
+
+Why only Valencia? It is the one city where three conditions coincide: sufficient temporal coverage with non-zero demand in most periods, a moderately consistent buyer base (27 demand listings spread over time), and enough price variance. Madrid and Barcelona have more data but their D/S ratio is so consistently low that there is no meaningful variation for the correlation to capture.
 
 ### Final conclusions
 
-1. **Permanent buyer's market:** The market is structurally oversupplied at a global D/S ratio of 4.42%. This condition persists across all cities and all time periods without exception.
-2. **Central hypothesis rejected:** D/S ratio does not predict price (r = -0.291, p = 0.0529). Synthesiser prices are set by the instrument, not by local supply/demand dynamics.
-3. **Geographic concentration:** Two cities (Madrid + Barcelona) dominate 51% of volume and 83% of market concentration. Any national-level model is primarily shaped by these two markets.
-4. **Only 5 cities are strategically actionable** under the composite visibility threshold.
-5. **Valencia is the exception:** It is the only city where supply/demand ratio has demonstrated statistically significant predictive power over future prices (r = 0.819, p = 0.002).
-6. **Views are not a price predictor** at the city aggregation level (r ≈ 0, p = 0.985).
-7. **Early-2023 structural break** is the dominant temporal event and the main data quality risk for longitudinal modelling.
+1. **Permanent buyer's market.** The global D/S ratio is 4.42% — for every 100 sell listings, only 4 active buyers exist. This condition holds consistently across all cities and all time periods without exception. The market would need to roughly double its active demand, or halve its supply, to approach equilibrium.
+2. **Central hypothesis rejected.** D/S ratio does not predict price (r = −0.291, p = 0.0529). Synthesiser prices are determined by the instrument itself (brand, model, category) and by national reference pricing — not by local supply/demand pressure.
+3. **Market concentrated in two cities.** Madrid + Barcelona account for 51.4% of volume and 82.6% of the HHI. Any national-level model is primarily shaped by these two markets. City-specific segmentation is methodologically required.
+4. **Only 5 cities are strategically actionable** under the composite visibility threshold (Madrid, Barcelona, Valencia, Zaragoza, Alicante). Together they represent 68% of total market volume.
+5. **No city justifies priority investment.** The highest composite score achieved is 79.2 (Madrid), just below the HIGH threshold of 80. The HIGH zone is structurally unreachable at current market conditions.
+6. **Valencia is the only exception.** It is the only city where D/S ratio(t) predicts median price(t+1) with statistical significance (r = 0.819, p = 0.002). It is the only market in the dataset where the classic supply/demand pricing mechanism is empirically active.
+7. **Views are not a price predictor** at the city level (r ≈ 0, p = 0.985). The `seen` metric measures passive curiosity, not purchase intent.
+8. **The early-2023 structural break is the main methodological risk.** Supply dropped by half synchronously across all cities in January 2023 and never recovered. Any longitudinal model that spans this break should treat it as a regime change, not a continuous series.
 
 ### Figures generated
 
