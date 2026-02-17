@@ -142,40 +142,55 @@ Deep exploratory analysis of the unified dataset. The focus is on temporal evolu
 ### Key findings
 
 #### Temporal evolution (Figs 01–03)
-- Listing volume shows a sharp drop from ~800 listings/scrape in late 2022 to ~260 in early 2023, then a partial recovery to ~400 before stabilising. This structural break in early 2023 is the most important temporal event in the dataset.
-- Sell listings consistently represent ~92% of all listing types. Buy and search (demand signals) never exceed 5% combined.
-- Median sell price fluctuates between €150 and €350 over the observation period, with the mean pulled significantly higher by extreme outliers (max price: €111,111 — likely a data entry error).
+- Listing volume peaks at ~800 listings/scrape in late 2022, then drops to ~260–430 from early 2023 onwards. A gap with no scraping is visible between Oct 2023 and May 2024. This irregular cadence must be accounted for in any temporal analysis.
+- **Three scraping sessions (2022-12-31, 2023-03-01, 2023-06-04) have missing price data** (all prices recorded as 0 €) — a confirmed data quality artefact, not a real market event. The **2022-08-30 session shows a broken brand extraction** where all listings fall into the "-" bucket.
+- Sell listings consistently represent **~90–95%** of all listing types at every point in time. Buy and Change together never exceed ~7%. The marketplace composition is structurally stable throughout the full period.
+- The **median sell price** is remarkably stable at **~300–350 €** across all sessions. The mean (~520–820 €) is systematically inflated by a thin premium segment, confirming the distribution is right-skewed with a long tail.
 
 #### Price analysis (Fig 04)
-- Median sell price: **€250**. Mean: €637 (distorted by outliers).
-- At the 99th percentile the cap is €5,500. Above that, 47 listings (0.86%) are considered outliers.
-- The price distribution is strongly right-skewed: most instruments trade between €75 and €550 (IQR), but the tail extends to very high values.
+- Median sell price: **~250 €**. IQR: **€75–550**. Mean: ~637 € (distorted by outliers).
+- At the 99th percentile the cap is **€5,500**. Above that, 47 listings (0.86%) are considered outliers and likely represent high-end vintage instruments.
+- The price distribution is strongly **right-skewed**: most instruments trade below €500, but the tail extends legitimately to several thousand euros.
 
 #### Brand analysis (Figs 05–08)
-- The top brand by volume is `-` (listings with no brand assigned), followed by Roland, Korg, Moog and Behringer.
-- Moog and Buchla command the highest median sell prices (€800–1,200+), reflecting their premium market positioning.
-- Roland and Korg show the most stable volume over time, while smaller brands appear and disappear sporadically.
-- The brand × scrape date heatmap confirms that market activity is brand-diverse but volume-concentrated in a handful of labels.
+- The top entry by volume is **"-"** (~1,530 listings) — listings where no brand could be extracted from the free text. This is a brand-detection limitation, not a real brand.
+- Among identifiable brands: **Roland** (~580), **Yamaha** (~420), **Korg** (~390) lead by volume. **Eurorack** appears in 4th place but represents a *format*, not a manufacturer — it captures modular listings without a specific maker name.
+- **Hammond** (~1,400 €) leads median sell price by a large margin, followed by **Elektron** (~620 €) and **Moog** (~500 €). The brands with the highest listing counts (Roland, Yamaha, Korg) sit in the mid-range at ~300–350 €, reflecting their broad product catalogues.
+- **Korg** shows the highest and most consistent median sell price over time (~300–550 €). **Roland** is the most price-stable brand (±50 € across the full period). **Yamaha** is the most volatile.
+- The brand × scrape date heatmap reveals the **2022-08-30 anomaly** clearly: all named brands show 0 while "-" shows 760 — confirming a data pipeline failure on that date.
 
 #### Geographic analysis (Figs 09–11)
-- Madrid dominates with 1,461 listings (~24% of total), followed by Barcelona (~1,015) and Girona (~541).
-- Median sell price varies significantly by city: Burgos, Navarra and Baleares show higher median prices, while La Rioja and Gipuzkoa trend lower — likely reflecting instrument category mix rather than genuine geographic pricing power.
-- The top 6 cities by volume all follow the same temporal pattern: peak activity in late 2022, sharp drop in early 2023, partial recovery.
+- **Madrid** (~1,450 listings) and **Barcelona** (~1,040) together account for ~42% of all listings. **Girona** is a surprising third (~535), which may reflect province-level geographic tagging rather than genuine city activity.
+- A **counterintuitive inverse relationship** exists between listing volume and median price: the highest-volume cities (Madrid ~215 €, Barcelona ~230 €) show the *lowest* median prices, while low-volume cities (Tarragona ~390 €, Sevilla ~370 €) show the *highest*. Greater competition in large markets compresses prices; smaller markets see more selective, higher-value listings.
+- All top cities follow the same temporal pattern: peak activity late 2022, sharp drop in early 2023, partial recovery. **Girona** is an outlier — it collapsed to near zero after early 2023 and never recovered, likely a data capture issue rather than a real market exit.
 
 #### Engagement — `seen` (Figs 12–14)
-- The `seen` distribution is heavily right-skewed: median ~387 views, mean ~790, max 25,152.
-- Price vs views scatter shows no clear linear relationship — cheap listings attract high view counts (accessible to more buyers), while expensive items accumulate fewer but more targeted views.
-- Moog and Buchla generate the highest median view counts, consistent with their community reputation and pricing.
+- The `seen` distribution is strongly **right-skewed** with a Pareto-like shape: most listings receive 100–300 views, while a small minority reaches 4,000–6,000+. Engagement is highly concentrated.
+- Price vs views scatter shows **no strong positive correlation**. There is a weak moderate relationship (+0.37 per the correlation matrix), but visually the scatter is dominated by the dense low-price cluster. High-priced items attract a narrower, more targeted audience.
+- Listings with price = 0 ("price on request") often attract high views — curiosity-driven traffic independent of price.
 
 #### Correlation matrix (Fig 15)
-- `sell` and `price` show a weak positive correlation: sell listings tend to have a price assigned while buy/search/change listings often show zero.
-- `seen` has near-zero correlation with all boolean listing-type columns — engagement is independent of listing category.
-- The buy, search, change, repair and gift columns are all near-zero with each other, confirming they represent distinct, non-overlapping listing intents.
+- `sell` ↔ `buy` (−0.68) and `sell` ↔ `change` (−0.69): strong negatives by construction — the listing type flags are mutually exclusive. These reflect the data encoding scheme, not a market phenomenon.
+- `price` ↔ `seen` = **+0.37**: the most meaningful correlation — higher-priced listings attract somewhat more views, likely because they represent more desirable or aspirational instruments.
+- `repair` ↔ `parts` = **+0.37**: co-occurrence of repair and parts listings makes intuitive sense.
+- `parts` ↔ `seen` = **+0.38**: parts listings attract above-average views, as a single spare part can satisfy multiple potential buyers simultaneously.
+- Most other pairs are near zero, indicating **low multicollinearity** — a favourable property for downstream modelling.
 
 #### Cross-group analysis (Figs 16–18)
-- The brand × city heatmap shows extreme concentration: Roland and Korg in Madrid and Barcelona account for a disproportionate share of all brand-city combinations.
-- Median price by brand and listing type (sell/buy/change) reveals that buy requests for premium brands (Moog, Oberheim) reflect realistic market expectations — buyers are willing to pay close to sell prices.
-- Price evolution by top 5 brands is volatile at the per-scrape level due to small sample sizes, but Roland and Korg maintain stable long-term medians.
+- The brand × city heatmap confirms **Madrid as the dominant market for every brand**. Roland (145), Yamaha (122), Korg (112) and Eurorack (83) all peak there. **Elektron** is noticeably more concentrated in large cities (Madrid 27, Barcelona 22), consistent with its premium boutique positioning.
+- Median price by brand and listing type reveals an anomaly: **Behringer "Change" listings show a median of ~1,875 €**, far above Behringer's typical sell price (~110 €). This suggests trade-up dynamics — sellers offering Behringer equipment as part of a bundle exchange for a single high-value item.
+- The brand × time price chart confirms that **Korg commands the highest and most consistent median price** among the top brands, while Roland is the most price-stable and Yamaha the most volatile.
+
+### Key takeaways
+
+1. **Data quality issues are significant** — three sessions with zeroed prices and one with broken brand extraction must be excluded or imputed before any modelling.
+2. **Hispasonic is structurally a selling platform** — over 90% of listings are sales, consistently across the full period.
+3. **Prices are right-skewed with a stable median of ~250–350 €** — robust estimators or log-transformation are recommended for any regression task.
+4. **High volume ≠ high value** — the brands with the most listings (Roland, Yamaha, Korg) are not the most expensive. Hammond, Elektron, and Moog lead on price with far fewer listings.
+5. **Larger cities have lower prices** — the inverse volume-price relationship across cities reflects competitive dynamics, not geographic pricing differences.
+6. **Engagement follows a Pareto distribution** — price is a weak predictor of views (+0.37). Most traffic concentrates on a small fraction of listings.
+7. **Eurorack should be treated as a category, not a brand** — it aggregates hundreds of small module manufacturers and its statistics are not comparable to single-brand entries.
+8. **Irregular scraping cadence** — volume trends over time are as much a function of scraping frequency as real market dynamics.
 
 ### Figures generated
 
