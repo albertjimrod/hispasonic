@@ -28,6 +28,45 @@ hispasonic/
 └── README.md
 ```
 
+**Pipeline overview:**
+
+```mermaid
+flowchart LR
+    RAW["📁 data/raw/
+12 CSVs
+Aug 2022 → May 2024
+5.962 listings"] --> ETL
+
+    subgraph ETL["01_etl.ipynb — ETL"]
+        E1["Inspección · Normalización
+Corrección tipos · Nulos
+Deduplicación documentada"]
+    end
+
+    ETL -->|"data/processed/
+hispasonic_unified.csv"| EDA
+
+    subgraph EDA["02_eda.ipynb — EDA"]
+        E2["Temporal · Precios · Marcas
+Ciudades · Engagement
+Matriz correlaciones"]
+        E2 --> F2["18 figuras"]
+    end
+
+    EDA --> SD
+
+    subgraph SD["03_supply_demand.ipynb — Supply & Demand"]
+        E3["HHI · Ratio D/S · Score compuesto
+Correlación rezagada
+Test de hipótesis"]
+        E3 --> F3["9 figuras"]
+    end
+
+    F2 --> REP["📊 reports/figures/
+27 gráficos"]
+    F3 --> REP
+```
+
 ---
 
 ## Quick Start
@@ -85,6 +124,29 @@ Load 12 heterogeneous CSV files scraped from Hispasonic across different dates, 
 - Total raw rows: **5,962 listings**
 
 ### Step-by-step process
+
+```mermaid
+flowchart TD
+    S1["Paso 1 · Inspección de columnas
+Comparación con CORE_COLUMNS
+3 tipos de columnas extra detectadas"] --> S2
+    S2["Paso 2 · Carga y normalización
+Drop extra cols · concat 12 CSVs
+añade source_file por trazabilidad"] --> S3
+    S3["Paso 3 · Corrección de tipos
+datetime · float · Int64 nullable
+8 columnas corregidas"] --> S4
+    S4["Paso 4 · Análisis de nulos
+3 nulls en description solamente
+resto 100% completo"] --> S5
+    S5["Paso 5 · Detección de duplicados
+2.059 identificados por clave compuesta
+retenidos: llevan señal temporal"] --> S6
+    S6["✅ Paso 6 · Output
+hispasonic_unified.csv
+5.962 filas × 17 columnas
+2022-08-26 → 2024-05-26"]
+```
 
 #### Step 1 — Column inspection
 Each CSV is loaded with zero rows and its column list compared against a defined `CORE_COLUMNS` schema of 16 fields. The inspection reveals three types of extra columns present in different files:
