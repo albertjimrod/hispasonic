@@ -4,6 +4,12 @@
 
 ---
 
+<div align="center">
+  <img src=".github/assets/portfolio.png" width="100%"/>
+</div>
+
+---
+
 # Hispasonic — Second-Hand Synthesiser Market Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
